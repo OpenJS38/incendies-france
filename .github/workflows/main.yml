@@ -1,7 +1,12 @@
 name: Update Incendies
 
 on:
+  schedule:
+    - cron: '0 * * * *'
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   update:
@@ -10,11 +15,66 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Télécharger les incendies
+      - name: Créer le GeoJSON
         run: |
-          curl -o incendies.json https://incendieencours.fr/data/fire_events_live.json
+          python << 'EOF'
+          import json
+          import urllib.request
 
-      - name: Vérifier le téléchargement
+          url = "https://incendieencours.fr/data/fire_events_live.json"
+
+          data = json.loads(
+              urllib.request.urlopen(url).read().decode("utf-8")
+          )
+
+          features = []
+
+          for e in data["events"]:
+
+              if e["st"] != "active":
+                  continue
+
+              features.append({
+                  "type": "Feature",
+                  "properties": {
+                      "Nom": e["name"],
+                      "FRP": e["frp"],
+                      "Detections": e["n"],
+                      "Statut": e["st"]
+                  },
+                  "geometry": {
+                      "type": "Point",
+                      "coordinates": [e["lon"], e["lat"]]
+                  }
+              })
+
+          geojson = {
+              "type": "FeatureCollection",
+              "features": features
+          }
+
+          with open(
+              "incendies_actifs.geojson",
+              "w",
+              encoding="utf-8"
+          ) as f:
+              json.dump(
+                  geojson,
+                  f,
+                  ensure_ascii=False,
+                  indent=2
+              )
+
+          EOF
+
+      - name: Commit des modifications
         run: |
-          ls -l
-          head incendies.json
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+
+          git add incendies_actifs.geojson
+
+          git diff --cached --quiet || (
+            git commit -m "Mise à jour automatique incendies"
+            git push
+          )
