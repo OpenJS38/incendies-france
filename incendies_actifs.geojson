@@ -1,0 +1,213 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Châteauvert",
+        "FRP": 380.7,
+        "Detections": 54,
+        "Statut": "active"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.0635, 43.50705]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Martignas-sur-Jalle",
+        "FRP": 150.3,
+        "Detections": 94,
+        "Statut": "active"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.93313, 44.87043]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Sautuges",
+        "FRP": 140.8,
+        "Detections": 127,
+        "Statut": "active"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.98365, 44.93002]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Le Grand Bos",
+        "FRP": 1158.5,
+        "Detections": 433,
+        "Statut": "active"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.07051, 44.89606]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Croix d'Hins",
+        "FRP": 292.9,
+        "Detections": 135,
+        "Statut": "active"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-0.86666, 44.74487]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "La Saussouze",
+        "FRP": 1014.1,
+        "Detections": 432,
+        "Statut": "active"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.13806, 44.81752]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Ecquetot",
+        "FRP": 189,
+        "Detections": 1,
+        "Statut": "active"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [1.01333, 49.15726]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Le Las",
+        "FRP": 776.8,
+        "Detections": 124,
+        "Statut": "active"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-1.00346, 44.78668]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Senneville",
+        "FRP": 36.5,
+        "Detections": 24,
+        "Statut": "active"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [0.15402, 46.80551]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Fos-sur-Mer",
+        "FRP": 57.5,
+        "Detections": 88,
+        "Statut": "active"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [4.88954, 43.43921]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Alléant",
+        "FRP": 103.7,
+        "Detections": 7,
+        "Statut": "active"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.75146, 47.07608]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Baisieux",
+        "FRP": 21.1,
+        "Detections": 78,
+        "Statut": "active"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [3.80923, 51.17177]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Mantet",
+        "FRP": 58.4,
+        "Detections": 11,
+        "Statut": "active"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [2.25914, 42.49179]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Châteauvert (évènement 2)",
+        "FRP": 1956.9,
+        "Detections": 18,
+        "Statut": "active"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [6.00869, 43.53111]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Ponteau",
+        "FRP": 47.3,
+        "Detections": 23,
+        "Statut": "active"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.00955, 43.38048]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Corte",
+        "FRP": 129.1,
+        "Detections": 134,
+        "Statut": "active"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [9.07356, 42.27332]
+      }
+    }
+  ]
+}
