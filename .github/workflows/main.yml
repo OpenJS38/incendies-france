@@ -1,7 +1,12 @@
 name: Update Incendies
 
 on:
+  schedule:
+    - cron: '0 * * * *'
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   update:
@@ -10,14 +15,64 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Télécharger le JSON
+      - name: Télécharger JSON
         run: |
-          curl -L \
-          -A "Mozilla/5.0" \
+          curl -L -A "Mozilla/5.0" \
           https://incendieencours.fr/data/fire_events_live.json \
           -o incendies.json
 
-      - name: Vérifier
+      - name: Convertir en GeoJSON
         run: |
-          ls -lh
-          head incendies.json
+          python << 'EOF'
+          import json
+
+          with open("incendies.json", encoding="utf-8") as f:
+              data = json.load(f)
+
+          geojson = {
+              "type": "FeatureCollection",
+              "features": []
+          }
+
+          for e in data["events"]:
+
+              if e["st"] != "active":
+                  continue
+
+              geojson["features"].append({
+                  "type": "Feature",
+                  "properties": {
+                      "Nom": e["name"],
+                      "FRP": e["frp"],
+                      "Detections": e["n"]
+                  },
+                  "geometry": {
+                      "type": "Point",
+                      "coordinates": [e["lon"], e["lat"]]
+                  }
+              })
+
+          with open(
+              "incendies_actifs.geojson",
+              "w",
+              encoding="utf-8"
+          ) as f:
+              json.dump(
+                  geojson,
+                  f,
+                  ensure_ascii=False,
+                  indent=2
+              )
+          EOF
+
+      - name: Commit
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+
+          git add incendies_actifs.geojson
+
+          git diff --cached --quiet || (
+            git commit -m "Mise à jour automatique"
+            git push
+          )
