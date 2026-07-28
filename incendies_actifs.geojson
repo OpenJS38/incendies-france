@@ -6,13 +6,28 @@
       "properties": {
         "Nom": "Martignas-sur-Jalle",
         "FRP": 188.6,
-        "Detections": 108
+        "Detections": 113
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.9274,
-          44.8709
+          -0.92796,
+          44.87081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Niefern",
+        "FRP": 18.1,
+        "Detections": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.56411,
+          48.87193
         ]
       }
     },
@@ -21,13 +36,28 @@
       "properties": {
         "Nom": "Le Las",
         "FRP": 776.8,
-        "Detections": 131
+        "Detections": 135
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.00301,
-          44.78495
+          -1.00234,
+          44.7841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Sautuges",
+        "FRP": 140.8,
+        "Detections": 134
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.9834,
+          44.92977
         ]
       }
     },
@@ -36,13 +66,13 @@
       "properties": {
         "Nom": "Biscarrosse",
         "FRP": 1563.8,
-        "Detections": 103
+        "Detections": 104
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.12351,
-          44.38074
+          -1.12332,
+          44.38073
         ]
       }
     },
@@ -79,6 +109,36 @@
     {
       "type": "Feature",
       "properties": {
+        "Nom": "La Saussouze",
+        "FRP": 1014.1,
+        "Detections": 442
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.13921,
+          44.81751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Le Grand Bos",
+        "FRP": 1158.5,
+        "Detections": 439
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.07048,
+          44.89611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Nom": "Baisieux",
         "FRP": 21.1,
         "Detections": 89
@@ -103,51 +163,6 @@
         "coordinates": [
           -0.86462,
           44.74467
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "La Saussouze",
-        "FRP": 1014.1,
-        "Detections": 440
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.13894,
-          44.81761
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Le Grand Bos",
-        "FRP": 1158.5,
-        "Detections": 438
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.07054,
-          44.89621
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Sautuges",
-        "FRP": 140.8,
-        "Detections": 131
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.98327,
-          44.92981
         ]
       }
     },
