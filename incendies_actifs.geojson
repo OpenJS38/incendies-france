@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Nom": "Châteauvert",
+        "Nom": "test",
         "FRP": 380.7,
         "Detections": 54
       },
