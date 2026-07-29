@@ -6,13 +6,13 @@
       "properties": {
         "Nom": "Martignas-sur-Jalle",
         "FRP": 188.6,
-        "Detections": 113
+        "Detections": 116
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.92796,
-          44.87081
+          -0.92659,
+          44.87059
         ]
       }
     },
