@@ -4,15 +4,90 @@
     {
       "type": "Feature",
       "properties": {
-        "Nom": "Martignas-sur-Jalle",
-        "FRP": 188.6,
-        "Detections": 116
+        "Nom": "Fos-sur-Mer",
+        "FRP": 57.5,
+        "Detections": 101
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.92659,
-          44.87059
+          4.89007,
+          43.43916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Martignas-sur-Jalle",
+        "FRP": 188.6,
+        "Detections": 123
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.92465,
+          44.87097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "La Saussouze",
+        "FRP": 1014.1,
+        "Detections": 450
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.13992,
+          44.8178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Le Grand Bos",
+        "FRP": 1158.5,
+        "Detections": 443
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.07067,
+          44.8965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Baisieux",
+        "FRP": 21.1,
+        "Detections": 93
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.80901,
+          51.17165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Alléant",
+        "FRP": 103.7,
+        "Detections": 12
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.75084,
+          47.07599
         ]
       }
     },
@@ -36,13 +111,13 @@
       "properties": {
         "Nom": "Le Las",
         "FRP": 776.8,
-        "Detections": 135
+        "Detections": 137
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.00234,
-          44.7841
+          -1.00199,
+          44.78365
         ]
       }
     },
@@ -51,13 +126,13 @@
       "properties": {
         "Nom": "Sautuges",
         "FRP": 140.8,
-        "Detections": 134
+        "Detections": 136
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.9834,
-          44.92977
+          -0.98381,
+          44.93037
         ]
       }
     },
@@ -109,45 +184,15 @@
     {
       "type": "Feature",
       "properties": {
-        "Nom": "La Saussouze",
-        "FRP": 1014.1,
-        "Detections": 442
+        "Nom": "Zone isolée",
+        "FRP": 18.8,
+        "Detections": 4
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.13921,
-          44.81751
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Le Grand Bos",
-        "FRP": 1158.5,
-        "Detections": 439
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.07048,
-          44.89611
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Baisieux",
-        "FRP": 21.1,
-        "Detections": 89
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.80903,
-          51.1715
+          -4.05017,
+          42.16042
         ]
       }
     },
@@ -156,13 +201,43 @@
       "properties": {
         "Nom": "Croix d'Hins",
         "FRP": 292.9,
-        "Detections": 149
+        "Detections": 153
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.86462,
-          44.74467
+          -0.86428,
+          44.74488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Mantet",
+        "FRP": 58.4,
+        "Detections": 15
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2604,
+          42.49077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Châteauvert",
+        "FRP": 424.6,
+        "Detections": 63
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.06227,
+          43.50334
         ]
       }
     },
@@ -186,58 +261,13 @@
       "properties": {
         "Nom": "Welschdorf",
         "FRP": 16,
-        "Detections": 3
+        "Detections": 5
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.41389,
-          49.5283
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Mantet",
-        "FRP": 58.4,
-        "Detections": 13
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.25974,
-          42.49124
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Alléant",
-        "FRP": 103.7,
-        "Detections": 10
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.75078,
-          47.07586
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Châteauvert",
-        "FRP": 424.6,
-        "Detections": 62
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.0623,
-          43.50367
+          8.41636,
+          49.52768
         ]
       }
     },
@@ -246,28 +276,28 @@
       "properties": {
         "Nom": "Senneville",
         "FRP": 36.5,
-        "Detections": 26
+        "Detections": 27
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.15413,
-          46.80561
+          0.15425,
+          46.80564
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "Nom": "Fos-sur-Mer",
-        "FRP": 57.5,
-        "Detections": 97
+        "Nom": "Russange",
+        "FRP": 16.5,
+        "Detections": 24
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.88988,
-          43.43898
+          5.95867,
+          49.50312
         ]
       }
     }
