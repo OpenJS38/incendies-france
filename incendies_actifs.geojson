@@ -4,150 +4,15 @@
     {
       "type": "Feature",
       "properties": {
-        "Nom": "Fos-sur-Mer",
-        "FRP": 57.5,
-        "Detections": 101
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.89007,
-          43.43916
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Martignas-sur-Jalle",
-        "FRP": 188.6,
-        "Detections": 123
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.92465,
-          44.87097
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "La Saussouze",
-        "FRP": 1014.1,
-        "Detections": 450
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.13992,
-          44.8178
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Le Grand Bos",
-        "FRP": 1158.5,
-        "Detections": 443
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.07067,
-          44.8965
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Baisieux",
-        "FRP": 21.1,
-        "Detections": 93
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.80901,
-          51.17165
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Alléant",
-        "FRP": 103.7,
-        "Detections": 12
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.75084,
-          47.07599
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Niefern",
-        "FRP": 18.1,
-        "Detections": 2
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.56411,
-          48.87193
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "Nom": "Le Las",
         "FRP": 776.8,
-        "Detections": 137
+        "Detections": 145
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.00199,
-          44.78365
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Sautuges",
-        "FRP": 140.8,
-        "Detections": 136
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.98381,
-          44.93037
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Biscarrosse",
-        "FRP": 1563.8,
-        "Detections": 104
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.12332,
-          44.38073
+          -1.00127,
+          44.78189
         ]
       }
     },
@@ -156,43 +21,88 @@
       "properties": {
         "Nom": "Barèges",
         "FRP": 16,
+        "Detections": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.09657,
+          42.86919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Couchey",
+        "FRP": 109.6,
         "Detections": 2
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.09412,
-          42.87012
+          4.96606,
+          47.26657
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "Nom": "Zone isolée",
-        "FRP": 16.2,
-        "Detections": 3
+        "Nom": "Martignas-sur-Jalle",
+        "FRP": 188.6,
+        "Detections": 134
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.18013,
-          41.92489
+          -0.92142,
+          44.87067
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "Nom": "Zone isolée",
-        "FRP": 18.8,
-        "Detections": 4
+        "Nom": "La Saussouze",
+        "FRP": 1014.1,
+        "Detections": 459
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -4.05017,
-          42.16042
+          -1.14106,
+          44.81793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Biscarrosse",
+        "FRP": 1563.8,
+        "Detections": 106
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.12299,
+          44.38067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Brannay",
+        "FRP": 74.8,
+        "Detections": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.13429,
+          48.22978
         ]
       }
     },
@@ -201,13 +111,148 @@
       "properties": {
         "Nom": "Croix d'Hins",
         "FRP": 292.9,
-        "Detections": 153
+        "Detections": 157
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.86428,
-          44.74488
+          -0.86437,
+          44.74472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "L'Arcelle",
+        "FRP": 26,
+        "Detections": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.51109,
+          44.93758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Baisieux",
+        "FRP": 30.4,
+        "Detections": 100
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.80908,
+          51.17145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Fos-sur-Mer",
+        "FRP": 57.5,
+        "Detections": 106
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.89003,
+          43.43929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Les Cultures",
+        "FRP": 69.4,
+        "Detections": 8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2974,
+          44.21683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Sautuges",
+        "FRP": 140.8,
+        "Detections": 139
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.98494,
+          44.93105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Le Grand Bos",
+        "FRP": 1158.5,
+        "Detections": 445
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.07072,
+          44.89672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Zone isolée",
+        "FRP": 18.8,
+        "Detections": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.05147,
+          42.16
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Alléant",
+        "FRP": 103.7,
+        "Detections": 13
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.75094,
+          47.07609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Châteauvert",
+        "FRP": 1956.9,
+        "Detections": 20
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.01039,
+          43.53009
         ]
       }
     },
@@ -216,58 +261,13 @@
       "properties": {
         "Nom": "Mantet",
         "FRP": 58.4,
-        "Detections": 15
+        "Detections": 16
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.2604,
-          42.49077
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Châteauvert",
-        "FRP": 424.6,
-        "Detections": 63
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.06227,
-          43.50334
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Sévigny-Waleppe",
-        "FRP": 58.9,
-        "Detections": 1
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.10738,
-          49.61035
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Welschdorf",
-        "FRP": 16,
-        "Detections": 5
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.41636,
-          49.52768
+          2.26024,
+          42.49078
         ]
       }
     },
@@ -276,13 +276,43 @@
       "properties": {
         "Nom": "Senneville",
         "FRP": 36.5,
-        "Detections": 27
+        "Detections": 29
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.15425,
-          46.80564
+          0.1542,
+          46.80573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Niefern",
+        "FRP": 18.1,
+        "Detections": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.56464,
+          48.87277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Welschdorf",
+        "FRP": 16,
+        "Detections": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.41667,
+          49.52745
         ]
       }
     },
@@ -291,13 +321,13 @@
       "properties": {
         "Nom": "Russange",
         "FRP": 16.5,
-        "Detections": 24
+        "Detections": 25
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.95867,
-          49.50312
+          5.95872,
+          49.5031
         ]
       }
     }
