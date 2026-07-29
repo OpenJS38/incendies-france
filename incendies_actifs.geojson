@@ -4,6 +4,21 @@
     {
       "type": "Feature",
       "properties": {
+        "Nom": "Camps-la-Source",
+        "FRP": 18.5,
+        "Detections": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.08625,
+          43.39347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Nom": "Le Las",
         "FRP": 776.8,
         "Detections": 145
