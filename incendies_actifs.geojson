@@ -4,6 +4,51 @@
     {
       "type": "Feature",
       "properties": {
+        "Nom": "Baisieux",
+        "FRP": 30.4,
+        "Detections": 117
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.80915,
+          51.17108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Fort-Mardyck",
+        "FRP": 30.7,
+        "Detections": 155
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.29025,
+          51.03629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Barèges",
+        "FRP": 16,
+        "Detections": 7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.09692,
+          42.86811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Nom": "Zone isolée",
         "FRP": 16.2,
         "Detections": 5
@@ -21,13 +66,13 @@
       "properties": {
         "Nom": "La Saussouze",
         "FRP": 1014.1,
-        "Detections": 470
+        "Detections": 471
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.14224,
-          44.81782
+          -1.14238,
+          44.81772
         ]
       }
     },
@@ -79,6 +124,21 @@
     {
       "type": "Feature",
       "properties": {
+        "Nom": "Welschdorf",
+        "FRP": 16,
+        "Detections": 10
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.4173,
+          49.52699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Nom": "Zone isolée",
         "FRP": 22.5,
         "Detections": 2
@@ -109,180 +169,15 @@
     {
       "type": "Feature",
       "properties": {
-        "Nom": "Baisieux",
-        "FRP": 30.4,
-        "Detections": 110
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.80917,
-          51.17127
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Barèges",
-        "FRP": 16,
-        "Detections": 6
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.09652,
-          42.86844
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Couchey",
-        "FRP": 231.5,
-        "Detections": 11
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.96399,
-          47.26905
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Croix d'Hins",
-        "FRP": 292.9,
-        "Detections": 161
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.8644,
-          44.74428
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Martignas-sur-Jalle",
-        "FRP": 188.6,
-        "Detections": 143
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.91938,
-          44.87046
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Le Las",
-        "FRP": 776.8,
-        "Detections": 152
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.00012,
-          44.78059
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Fos-sur-Mer",
-        "FRP": 57.5,
-        "Detections": 112
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.89033,
-          43.43935
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Fontainebleau",
-        "FRP": 25.2,
-        "Detections": 5
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.65767,
-          48.40465
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Achères-la-Forêt",
-        "FRP": 27,
-        "Detections": 4
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.57977,
-          48.37304
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Camps-la-Source",
-        "FRP": 18.5,
-        "Detections": 6
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.08675,
-          43.39314
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Welschdorf",
-        "FRP": 16,
-        "Detections": 8
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.41699,
-          49.52722
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "Nom": "Russange",
         "FRP": 16.5,
-        "Detections": 28
+        "Detections": 30
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.95895,
-          49.50327
+          5.95907,
+          49.5034
         ]
       }
     }
