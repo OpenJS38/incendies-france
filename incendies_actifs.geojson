@@ -4,60 +4,15 @@
     {
       "type": "Feature",
       "properties": {
-        "Nom": "Baisieux",
-        "FRP": 30.4,
-        "Detections": 117
+        "Nom": "Correns",
+        "FRP": 274,
+        "Detections": 15
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.80915,
-          51.17108
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Fort-Mardyck",
-        "FRP": 30.7,
-        "Detections": 155
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.29025,
-          51.03629
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Barèges",
-        "FRP": 16,
-        "Detections": 7
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.09692,
-          42.86811
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Zone isolée",
-        "FRP": 16.2,
-        "Detections": 5
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.18038,
-          41.92422
+          6.07827,
+          43.48446
         ]
       }
     },
@@ -66,13 +21,58 @@
       "properties": {
         "Nom": "La Saussouze",
         "FRP": 1014.1,
-        "Detections": 471
+        "Detections": 475
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.14238,
-          44.81772
+          -1.14277,
+          44.81762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Fort-Mardyck",
+        "FRP": 30.7,
+        "Detections": 160
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.29026,
+          51.03635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Baisieux",
+        "FRP": 30.4,
+        "Detections": 118
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.80916,
+          51.1711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Zone isolée",
+        "FRP": 16.2,
+        "Detections": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.18006,
+          41.92426
         ]
       }
     },
@@ -81,43 +81,28 @@
       "properties": {
         "Nom": "Senneville",
         "FRP": 36.5,
-        "Detections": 34
+        "Detections": 35
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.15413,
-          46.80601
+          0.15425,
+          46.80608
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "Nom": "Zone isolée",
-        "FRP": 32.7,
-        "Detections": 2
+        "Nom": "Fos-sur-Mer",
+        "FRP": 57.5,
+        "Detections": 116
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.06426,
-          45.76467
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "L'Arcelle",
-        "FRP": 26,
-        "Detections": 5
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.51096,
-          44.93745
+          4.89056,
+          43.43942
         ]
       }
     },
@@ -126,43 +111,13 @@
       "properties": {
         "Nom": "Welschdorf",
         "FRP": 16,
-        "Detections": 10
+        "Detections": 12
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.4173,
-          49.52699
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Zone isolée",
-        "FRP": 22.5,
-        "Detections": 2
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.86898,
-          47.75724
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Zone isolée",
-        "FRP": 19.5,
-        "Detections": 3
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.13435,
-          45.49551
+          8.41673,
+          49.5272
         ]
       }
     },
@@ -171,13 +126,13 @@
       "properties": {
         "Nom": "Russange",
         "FRP": 16.5,
-        "Detections": 30
+        "Detections": 31
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.95907,
-          49.5034
+          5.95902,
+          49.50338
         ]
       }
     }
