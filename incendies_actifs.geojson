@@ -4,6 +4,21 @@
     {
       "type": "Feature",
       "properties": {
+        "Nom": "Baisieux",
+        "FRP": 30.4,
+        "Detections": 119
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.8091,
+          51.17105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Nom": "Correns",
         "FRP": 274,
         "Detections": 15
@@ -43,21 +58,6 @@
         "coordinates": [
           2.29026,
           51.03635
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Baisieux",
-        "FRP": 30.4,
-        "Detections": 118
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.80916,
-          51.1711
         ]
       }
     },
