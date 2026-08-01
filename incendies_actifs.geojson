@@ -4,6 +4,111 @@
     {
       "type": "Feature",
       "properties": {
+        "Nom": "Correns",
+        "FRP": 274,
+        "Detections": 44
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.07909,
+          43.48417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Zone isolée",
+        "FRP": 16.2,
+        "Detections": 7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.1799,
+          41.92411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "La Saussouze",
+        "FRP": 1014.1,
+        "Detections": 478
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.14309,
+          44.81748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Zone isolée",
+        "FRP": 16.8,
+        "Detections": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.4902,
+          51.05703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Le Temple",
+        "FRP": 212.8,
+        "Detections": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.19402,
+          46.77898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Russange",
+        "FRP": 16.5,
+        "Detections": 34
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.9591,
+          49.50345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Bedouin",
+        "FRP": 123.1,
+        "Detections": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.11931,
+          44.32829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Nom": "Hospice de France",
         "FRP": 28.9,
         "Detections": 5
@@ -19,60 +124,15 @@
     {
       "type": "Feature",
       "properties": {
-        "Nom": "Correns",
-        "FRP": 274,
-        "Detections": 31
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.08049,
-          43.48437
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "La Saussouze",
-        "FRP": 1014.1,
-        "Detections": 477
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.14305,
-          44.81742
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "Nom": "Fort-Mardyck",
         "FRP": 30.7,
-        "Detections": 168
+        "Detections": 169
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.29003,
-          51.03621
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Russange",
-        "FRP": 16.5,
-        "Detections": 33
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.9591,
-          49.50343
+          2.2901,
+          51.03624
         ]
       }
     },
