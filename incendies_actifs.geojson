@@ -6,13 +6,73 @@
       "properties": {
         "Nom": "Correns",
         "FRP": 274,
-        "Detections": 44
+        "Detections": 81
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.07909,
-          43.48417
+          6.07907,
+          43.48301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Senneville",
+        "FRP": 36.5,
+        "Detections": 40
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.15423,
+          46.80615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Baisieux",
+        "FRP": 30.4,
+        "Detections": 127
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.80921,
+          51.17121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Fort-Mardyck",
+        "FRP": 30.7,
+        "Detections": 174
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.29012,
+          51.03623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Fos-sur-Mer",
+        "FRP": 57.5,
+        "Detections": 132
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.88949,
+          43.43925
         ]
       }
     },
@@ -28,6 +88,21 @@
         "coordinates": [
           0.1799,
           41.92411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Hospice de France",
+        "FRP": 28.9,
+        "Detections": 9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.43581,
+          42.45291
         ]
       }
     },
@@ -103,81 +178,6 @@
         "coordinates": [
           6.11931,
           44.32829
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Hospice de France",
-        "FRP": 28.9,
-        "Detections": 5
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.43507,
-          42.45385
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Fort-Mardyck",
-        "FRP": 30.7,
-        "Detections": 169
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.2901,
-          51.03624
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Fos-sur-Mer",
-        "FRP": 57.5,
-        "Detections": 122
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.89055,
-          43.43934
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Senneville",
-        "FRP": 36.5,
-        "Detections": 36
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.15423,
-          46.80604
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Baisieux",
-        "FRP": 30.4,
-        "Detections": 121
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.80908,
-          51.17104
         ]
       }
     }
