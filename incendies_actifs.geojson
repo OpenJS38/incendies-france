@@ -4,15 +4,150 @@
     {
       "type": "Feature",
       "properties": {
-        "Nom": "Correns",
-        "FRP": 274,
-        "Detections": 81
+        "Nom": "Saint-Quentin-Fallavier",
+        "FRP": 29.1,
+        "Detections": 2
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.07907,
-          43.48301
+          5.12044,
+          45.64823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Zone isolée",
+        "FRP": 35,
+        "Detections": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.97832,
+          51.11158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Zone isolée",
+        "FRP": 20.7,
+        "Detections": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.56108,
+          49.67238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Zone isolée",
+        "FRP": 68.4,
+        "Detections": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.97886,
+          42.3428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Hospice de France",
+        "FRP": 68.9,
+        "Detections": 7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.77373,
+          42.57352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Baisieux",
+        "FRP": 30.4,
+        "Detections": 131
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.80887,
+          51.171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Montereau",
+        "FRP": 83,
+        "Detections": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.55852,
+          47.84515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Bedouin",
+        "FRP": 123.1,
+        "Detections": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.11656,
+          44.32967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Correns",
+        "FRP": 274,
+        "Detections": 99
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.07785,
+          43.48339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Fos-sur-Mer",
+        "FRP": 57.5,
+        "Detections": 134
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.88958,
+          43.43922
         ]
       }
     },
@@ -34,120 +169,15 @@
     {
       "type": "Feature",
       "properties": {
-        "Nom": "Baisieux",
-        "FRP": 30.4,
-        "Detections": 127
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.80921,
-          51.17121
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "Nom": "Fort-Mardyck",
         "FRP": 30.7,
-        "Detections": 174
+        "Detections": 177
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.29012,
-          51.03623
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Fos-sur-Mer",
-        "FRP": 57.5,
-        "Detections": 132
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.88949,
-          43.43925
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Zone isolée",
-        "FRP": 16.2,
-        "Detections": 7
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.1799,
-          41.92411
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Hospice de France",
-        "FRP": 28.9,
-        "Detections": 9
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.43581,
-          42.45291
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "La Saussouze",
-        "FRP": 1014.1,
-        "Detections": 478
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.14309,
-          44.81748
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Zone isolée",
-        "FRP": 16.8,
-        "Detections": 6
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.4902,
-          51.05703
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Le Temple",
-        "FRP": 212.8,
-        "Detections": 2
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.19402,
-          46.77898
+          2.29026,
+          51.03628
         ]
       }
     },
@@ -156,28 +186,13 @@
       "properties": {
         "Nom": "Russange",
         "FRP": 16.5,
-        "Detections": 34
+        "Detections": 35
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.9591,
-          49.50345
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Bedouin",
-        "FRP": 123.1,
-        "Detections": 2
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.11931,
-          44.32829
+          5.95915,
+          49.50335
         ]
       }
     }
