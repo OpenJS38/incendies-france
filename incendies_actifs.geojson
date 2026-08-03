@@ -4,6 +4,81 @@
     {
       "type": "Feature",
       "properties": {
+        "Nom": "Hospice de France",
+        "FRP": 28.9,
+        "Detections": 11
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.43595,
+          42.45298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Senneville",
+        "FRP": 36.5,
+        "Detections": 43
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.15412,
+          46.80624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Fos-sur-Mer",
+        "FRP": 57.5,
+        "Detections": 143
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.88971,
+          43.43918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Russange",
+        "FRP": 16.5,
+        "Detections": 38
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.95892,
+          49.50334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Fort-Mardyck",
+        "FRP": 30.7,
+        "Detections": 185
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.29041,
+          51.03635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Nom": "Saint-Quentin-Fallavier",
         "FRP": 29.1,
         "Detections": 2
@@ -66,13 +141,13 @@
       "properties": {
         "Nom": "Hospice de France",
         "FRP": 68.9,
-        "Detections": 7
+        "Detections": 9
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.77373,
-          42.57352
+          0.77486,
+          42.57409
         ]
       }
     },
@@ -81,13 +156,13 @@
       "properties": {
         "Nom": "Baisieux",
         "FRP": 30.4,
-        "Detections": 131
+        "Detections": 133
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           3.80887,
-          51.171
+          51.17101
         ]
       }
     },
@@ -126,73 +201,13 @@
       "properties": {
         "Nom": "Correns",
         "FRP": 274,
-        "Detections": 99
+        "Detections": 103
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.07785,
-          43.48339
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Fos-sur-Mer",
-        "FRP": 57.5,
-        "Detections": 134
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.88958,
-          43.43922
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Senneville",
-        "FRP": 36.5,
-        "Detections": 40
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.15423,
-          46.80615
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Fort-Mardyck",
-        "FRP": 30.7,
-        "Detections": 177
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.29026,
-          51.03628
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Russange",
-        "FRP": 16.5,
-        "Detections": 35
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.95915,
-          49.50335
+          6.0771,
+          43.48354
         ]
       }
     }
