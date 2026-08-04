@@ -4,6 +4,81 @@
     {
       "type": "Feature",
       "properties": {
+        "Nom": "Gavarnie",
+        "FRP": 42,
+        "Detections": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.33027,
+          42.26482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Baisieux",
+        "FRP": 30.4,
+        "Detections": 141
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.80897,
+          51.17118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Montlahuc",
+        "FRP": 49.3,
+        "Detections": 8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.45974,
+          44.53427
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Senneville",
+        "FRP": 36.5,
+        "Detections": 44
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.15413,
+          46.80632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Fort-Mardyck",
+        "FRP": 30.7,
+        "Detections": 202
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.29049,
+          51.03654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Nom": "Monceau-le-Waast",
         "FRP": 20.7,
         "Detections": 3
@@ -34,6 +109,36 @@
     {
       "type": "Feature",
       "properties": {
+        "Nom": "Fos-sur-Mer",
+        "FRP": 57.5,
+        "Detections": 152
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.88976,
+          43.43928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Russange",
+        "FRP": 16.5,
+        "Detections": 39
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.95889,
+          49.50331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Nom": "Schreckling",
         "FRP": 37,
         "Detections": 68
@@ -43,126 +148,6 @@
         "coordinates": [
           6.74311,
           49.35123
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Fos-sur-Mer",
-        "FRP": 57.5,
-        "Detections": 148
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.88967,
-          43.43924
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Bedouin",
-        "FRP": 123.1,
-        "Detections": 6
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.11506,
-          44.33014
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Hospice de France",
-        "FRP": 68.9,
-        "Detections": 10
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.77503,
-          42.57388
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Hospice de France",
-        "FRP": 28.9,
-        "Detections": 11
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.43595,
-          42.45298
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Senneville",
-        "FRP": 36.5,
-        "Detections": 43
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.15412,
-          46.80624
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Russange",
-        "FRP": 16.5,
-        "Detections": 38
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.95892,
-          49.50334
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Baisieux",
-        "FRP": 30.4,
-        "Detections": 136
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.80889,
-          51.17105
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Fort-Mardyck",
-        "FRP": 30.7,
-        "Detections": 191
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.29032,
-          51.0364
         ]
       }
     }
