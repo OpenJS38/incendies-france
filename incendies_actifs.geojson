@@ -4,6 +4,126 @@
     {
       "type": "Feature",
       "properties": {
+        "Nom": "Zone isolée",
+        "FRP": 58.7,
+        "Detections": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.74771,
+          41.3012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Hospice de France",
+        "FRP": 49.3,
+        "Detections": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.27347,
+          42.46761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Schreckling",
+        "FRP": 37,
+        "Detections": 71
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.74293,
+          49.3513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Montlahuc",
+        "FRP": 66.4,
+        "Detections": 12
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4649,
+          44.53365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Fos-sur-Mer",
+        "FRP": 57.5,
+        "Detections": 161
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.88999,
+          43.43941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Zone isolée",
+        "FRP": 27.7,
+        "Detections": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.05405,
+          45.76294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Bel-Air",
+        "FRP": 16.1,
+        "Detections": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          8.37921,
+          48.9447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Baisieux",
+        "FRP": 30.4,
+        "Detections": 144
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.80906,
+          51.17109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Nom": "Gavarnie",
         "FRP": 42,
         "Detections": 4
@@ -13,36 +133,6 @@
         "coordinates": [
           -0.33027,
           42.26482
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Baisieux",
-        "FRP": 30.4,
-        "Detections": 141
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.80897,
-          51.17118
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Montlahuc",
-        "FRP": 49.3,
-        "Detections": 8
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.45974,
-          44.53427
         ]
       }
     },
@@ -64,90 +154,30 @@
     {
       "type": "Feature",
       "properties": {
-        "Nom": "Fort-Mardyck",
-        "FRP": 30.7,
-        "Detections": 202
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.29049,
-          51.03654
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Monceau-le-Waast",
-        "FRP": 20.7,
-        "Detections": 3
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.71755,
-          49.6071
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Douzy",
-        "FRP": 17.5,
-        "Detections": 3
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.01887,
-          49.68517
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Fos-sur-Mer",
-        "FRP": 57.5,
-        "Detections": 152
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.88976,
-          43.43928
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "Nom": "Russange",
         "FRP": 16.5,
-        "Detections": 39
+        "Detections": 40
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.95889,
-          49.50331
+          5.95887,
+          49.50334
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "Nom": "Schreckling",
-        "FRP": 37,
-        "Detections": 68
+        "Nom": "Fort-Mardyck",
+        "FRP": 30.7,
+        "Detections": 204
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.74311,
-          49.35123
+          2.29041,
+          51.03647
         ]
       }
     }
