@@ -4,6 +4,36 @@
     {
       "type": "Feature",
       "properties": {
+        "Nom": "Coupetz",
+        "FRP": 66.9,
+        "Detections": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.36945,
+          48.82867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Zone isolée",
+        "FRP": 17.9,
+        "Detections": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.35132,
+          45.86997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Nom": "Fort-Mardyck",
         "FRP": 30.7,
         "Detections": 223
@@ -118,21 +148,6 @@
         "coordinates": [
           3.8091,
           51.17106
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Zone isolée",
-        "FRP": 16.1,
-        "Detections": 5
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.35454,
-          45.86853
         ]
       }
     },
