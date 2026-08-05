@@ -4,6 +4,51 @@
     {
       "type": "Feature",
       "properties": {
+        "Nom": "Fort-Mardyck",
+        "FRP": 30.7,
+        "Detections": 223
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.29095,
+          51.03654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Fos-sur-Mer",
+        "FRP": 57.5,
+        "Detections": 168
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.88973,
+          43.43962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Schreckling",
+        "FRP": 37,
+        "Detections": 73
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.74301,
+          49.35121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Nom": "Hospice de France",
         "FRP": 51.4,
         "Detections": 8
@@ -34,15 +79,15 @@
     {
       "type": "Feature",
       "properties": {
-        "Nom": "Fort-Mardyck",
-        "FRP": 30.7,
-        "Detections": 222
+        "Nom": "Hospice de France",
+        "FRP": 52.4,
+        "Detections": 3
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.29094,
-          51.03656
+          0.35924,
+          42.45442
         ]
       }
     },
@@ -64,21 +109,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Nom": "Schreckling",
-        "FRP": 37,
-        "Detections": 72
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.74295,
-          49.35124
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "Nom": "Baisieux",
         "FRP": 30.4,
         "Detections": 151
@@ -88,21 +118,6 @@
         "coordinates": [
           3.8091,
           51.17106
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Fos-sur-Mer",
-        "FRP": 57.5,
-        "Detections": 167
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.88951,
-          43.43961
         ]
       }
     },
@@ -133,51 +148,6 @@
         "coordinates": [
           5.46661,
           44.5337
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Zone isolée",
-        "FRP": 58.7,
-        "Detections": 2
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -4.74771,
-          41.3012
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Hospice de France",
-        "FRP": 52.4,
-        "Detections": 2
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.35987,
-          42.45386
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Gavarnie",
-        "FRP": 42,
-        "Detections": 8
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.32893,
-          42.26297
         ]
       }
     }
