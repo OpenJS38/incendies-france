@@ -6,13 +6,13 @@
       "properties": {
         "Nom": "Hospice de France",
         "FRP": 51.4,
-        "Detections": 5
+        "Detections": 8
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.27741,
-          42.46879
+          0.27776,
+          42.46854
         ]
       }
     },
@@ -36,13 +36,13 @@
       "properties": {
         "Nom": "Fort-Mardyck",
         "FRP": 30.7,
-        "Detections": 221
+        "Detections": 222
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.2909,
-          51.03653
+          2.29094,
+          51.03656
         ]
       }
     },
@@ -64,15 +64,15 @@
     {
       "type": "Feature",
       "properties": {
-        "Nom": "Fos-sur-Mer",
-        "FRP": 57.5,
-        "Detections": 163
+        "Nom": "Schreckling",
+        "FRP": 37,
+        "Detections": 72
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.88951,
-          43.43957
+          6.74295,
+          49.35124
         ]
       }
     },
@@ -81,13 +81,28 @@
       "properties": {
         "Nom": "Baisieux",
         "FRP": 30.4,
-        "Detections": 149
+        "Detections": 151
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.80907,
+          3.8091,
           51.17106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Fos-sur-Mer",
+        "FRP": 57.5,
+        "Detections": 167
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.88951,
+          43.43961
         ]
       }
     },
@@ -109,6 +124,21 @@
     {
       "type": "Feature",
       "properties": {
+        "Nom": "Montlahuc",
+        "FRP": 66.4,
+        "Detections": 20
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.46661,
+          44.5337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Nom": "Zone isolée",
         "FRP": 58.7,
         "Detections": 2
@@ -124,30 +154,15 @@
     {
       "type": "Feature",
       "properties": {
-        "Nom": "Schreckling",
-        "FRP": 37,
-        "Detections": 71
+        "Nom": "Hospice de France",
+        "FRP": 52.4,
+        "Detections": 2
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.74293,
-          49.3513
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Montlahuc",
-        "FRP": 66.4,
-        "Detections": 18
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.46558,
-          44.53407
+          0.35987,
+          42.45386
         ]
       }
     },
@@ -156,43 +171,13 @@
       "properties": {
         "Nom": "Gavarnie",
         "FRP": 42,
-        "Detections": 7
+        "Detections": 8
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.32914,
-          42.26328
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Zone isolée",
-        "FRP": 27.7,
-        "Detections": 3
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.05405,
-          45.76294
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Bel-Air",
-        "FRP": 16.1,
-        "Detections": 2
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.37921,
-          48.9447
+          -0.32893,
+          42.26297
         ]
       }
     }
