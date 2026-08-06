@@ -4,45 +4,15 @@
     {
       "type": "Feature",
       "properties": {
-        "Nom": "Coupetz",
-        "FRP": 66.9,
-        "Detections": 2
+        "Nom": "Baisieux",
+        "FRP": 30.4,
+        "Detections": 156
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.36945,
-          48.82867
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Zone isolée",
-        "FRP": 17.9,
-        "Detections": 6
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.35132,
-          45.86997
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Fort-Mardyck",
-        "FRP": 30.7,
-        "Detections": 223
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.29095,
-          51.03654
+          3.80919,
+          51.17113
         ]
       }
     },
@@ -51,13 +21,88 @@
       "properties": {
         "Nom": "Fos-sur-Mer",
         "FRP": 57.5,
-        "Detections": 168
+        "Detections": 176
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.88973,
-          43.43962
+          4.88958,
+          43.43969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Fort-Mardyck",
+        "FRP": 30.7,
+        "Detections": 234
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.29048,
+          51.03644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Zone isolée",
+        "FRP": 17.9,
+        "Detections": 10
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.35064,
+          45.8695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Zone isolée",
+        "FRP": 27.6,
+        "Detections": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.86636,
+          41.55702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Coupetz",
+        "FRP": 66.9,
+        "Detections": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3726,
+          48.82746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Russange",
+        "FRP": 16.5,
+        "Detections": 42
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.95896,
+          49.50338
         ]
       }
     },
@@ -66,58 +111,28 @@
       "properties": {
         "Nom": "Schreckling",
         "FRP": 37,
-        "Detections": 73
+        "Detections": 74
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.74301,
-          49.35121
+          6.74287,
+          49.3512
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "Nom": "Hospice de France",
-        "FRP": 51.4,
-        "Detections": 8
+        "Nom": "Zone isolée",
+        "FRP": 17,
+        "Detections": 15
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.27776,
-          42.46854
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Pradelle",
-        "FRP": 16.5,
-        "Detections": 2
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.20924,
-          45.79231
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Hospice de France",
-        "FRP": 52.4,
-        "Detections": 3
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.35924,
-          42.45442
+          8.17354,
+          45.72477
         ]
       }
     },
@@ -126,43 +141,28 @@
       "properties": {
         "Nom": "Senneville",
         "FRP": 36.5,
-        "Detections": 47
+        "Detections": 48
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.15413,
-          46.80643
+          0.15412,
+          46.80648
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "Nom": "Baisieux",
-        "FRP": 30.4,
-        "Detections": 151
+        "Nom": "Pradelle",
+        "FRP": 16.5,
+        "Detections": 3
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.8091,
-          51.17106
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Montlahuc",
-        "FRP": 66.4,
-        "Detections": 20
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.46661,
-          44.5337
+          3.20881,
+          45.79312
         ]
       }
     }
