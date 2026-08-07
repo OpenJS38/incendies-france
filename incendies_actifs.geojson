@@ -180,21 +180,6 @@
           49.35108
         ]
       }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Montséret",
-        "FRP": 145.7,
-        "Detections": 3
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.81996,
-          43.10863
-        ]
-      }
     }
   ]
 }
