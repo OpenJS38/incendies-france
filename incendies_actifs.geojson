@@ -4,6 +4,51 @@
     {
       "type": "Feature",
       "properties": {
+        "Nom": "Montcenis",
+        "FRP": 83.5,
+        "Detections": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.40306,
+          46.79545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Saint-Cyr-d'Estrancourt",
+        "FRP": 21,
+        "Detections": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.3467,
+          48.9142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Fos-sur-Mer",
+        "FRP": 57.5,
+        "Detections": 185
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.88938,
+          43.4398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Nom": "Baisieux",
         "FRP": 30.4,
         "Detections": 170
@@ -94,21 +139,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Nom": "Fos-sur-Mer",
-        "FRP": 57.5,
-        "Detections": 184
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.88934,
-          43.43977
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "Nom": "Coupetz",
         "FRP": 66.9,
         "Detections": 9
@@ -156,13 +186,13 @@
       "properties": {
         "Nom": "Montséret",
         "FRP": 145.7,
-        "Detections": 2
+        "Detections": 3
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.81971,
-          43.10959
+          2.81996,
+          43.10863
         ]
       }
     }
