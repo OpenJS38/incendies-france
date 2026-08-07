@@ -4,6 +4,21 @@
     {
       "type": "Feature",
       "properties": {
+        "Nom": "Baisieux",
+        "FRP": 30.4,
+        "Detections": 165
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.80928,
+          51.17122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Nom": "Zone isolée",
         "FRP": 67.9,
         "Detections": 27
@@ -58,21 +73,6 @@
         "coordinates": [
           0.15416,
           46.8065
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Baisieux",
-        "FRP": 30.4,
-        "Detections": 164
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.80923,
-          51.17117
         ]
       }
     },
