@@ -6,13 +6,13 @@
       "properties": {
         "Nom": "Baisieux",
         "FRP": 30.4,
-        "Detections": 165
+        "Detections": 170
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.80928,
-          51.17122
+          3.80932,
+          51.17138
         ]
       }
     },
@@ -21,13 +21,58 @@
       "properties": {
         "Nom": "Zone isolée",
         "FRP": 67.9,
-        "Detections": 27
+        "Detections": 33
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          8.1746,
-          45.72369
+          8.17393,
+          45.72357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Zone isolée",
+        "FRP": 17.9,
+        "Detections": 22
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.34534,
+          45.87015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Zone isolée",
+        "FRP": 27.6,
+        "Detections": 7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.86523,
+          41.5575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Opperding",
+        "FRP": 34.2,
+        "Detections": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.41778,
+          49.63808
         ]
       }
     },
@@ -36,13 +81,73 @@
       "properties": {
         "Nom": "Fort-Mardyck",
         "FRP": 30.7,
-        "Detections": 242
+        "Detections": 248
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.29042,
+          2.29024,
           51.03641
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Fos-sur-Mer",
+        "FRP": 57.5,
+        "Detections": 184
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.88934,
+          43.43977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Coupetz",
+        "FRP": 66.9,
+        "Detections": 9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.37461,
+          48.82645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Russange",
+        "FRP": 16.5,
+        "Detections": 43
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.95884,
+          49.50336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Schreckling",
+        "FRP": 37,
+        "Detections": 78
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.74277,
+          49.35108
         ]
       }
     },
@@ -58,66 +163,6 @@
         "coordinates": [
           2.81971,
           43.10959
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Senneville",
-        "FRP": 36.5,
-        "Detections": 50
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.15416,
-          46.8065
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Zone isolée",
-        "FRP": 17.9,
-        "Detections": 18
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.34753,
-          45.86995
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Fos-sur-Mer",
-        "FRP": 57.5,
-        "Detections": 181
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.88974,
-          43.43966
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Coupetz",
-        "FRP": 66.9,
-        "Detections": 8
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.37425,
-          48.82683
         ]
       }
     }
