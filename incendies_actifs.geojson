@@ -4,135 +4,30 @@
     {
       "type": "Feature",
       "properties": {
-        "Nom": "Baisieux",
-        "FRP": 30.4,
-        "Detections": 156
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.80919,
-          51.17113
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Fos-sur-Mer",
-        "FRP": 57.5,
-        "Detections": 176
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.88958,
-          43.43969
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Fort-Mardyck",
-        "FRP": 30.7,
-        "Detections": 234
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.29048,
-          51.03644
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "Nom": "Zone isolée",
-        "FRP": 17.9,
-        "Detections": 10
+        "FRP": 67.9,
+        "Detections": 26
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.35064,
-          45.8695
+          8.1742,
+          45.72311
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "Nom": "Zone isolée",
-        "FRP": 27.6,
-        "Detections": 3
+        "Nom": "Montséret",
+        "FRP": 145.7,
+        "Detections": 2
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.86636,
-          41.55702
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Coupetz",
-        "FRP": 66.9,
-        "Detections": 3
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.3726,
-          48.82746
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Russange",
-        "FRP": 16.5,
-        "Detections": 42
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.95896,
-          49.50338
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Schreckling",
-        "FRP": 37,
-        "Detections": 74
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.74287,
-          49.3512
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Zone isolée",
-        "FRP": 17,
-        "Detections": 15
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.17354,
-          45.72477
+          2.81971,
+          43.10959
         ]
       }
     },
@@ -141,28 +36,118 @@
       "properties": {
         "Nom": "Senneville",
         "FRP": 36.5,
-        "Detections": 48
+        "Detections": 50
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.15412,
-          46.80648
+          0.15416,
+          46.8065
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "Nom": "Pradelle",
-        "FRP": 16.5,
-        "Detections": 3
+        "Nom": "Fort-Mardyck",
+        "FRP": 30.7,
+        "Detections": 239
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.20881,
-          45.79312
+          2.29051,
+          51.03644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Coupetz",
+        "FRP": 66.9,
+        "Detections": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.37239,
+          48.82785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Baisieux",
+        "FRP": 30.4,
+        "Detections": 160
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.80924,
+          51.17114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Zone isolée",
+        "FRP": 27.6,
+        "Detections": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.86545,
+          41.55669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Zone isolée",
+        "FRP": 17.9,
+        "Detections": 16
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.34833,
+          45.86995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Fos-sur-Mer",
+        "FRP": 57.5,
+        "Detections": 179
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.88971,
+          43.43966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Schreckling",
+        "FRP": 37,
+        "Detections": 77
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.74273,
+          49.35115
         ]
       }
     }
