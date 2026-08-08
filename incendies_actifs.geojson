@@ -4,6 +4,36 @@
     {
       "type": "Feature",
       "properties": {
+        "Nom": "Fos-sur-Mer",
+        "FRP": 57.5,
+        "Detections": 192
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.88889,
+          43.43983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Fort-Mardyck",
+        "FRP": 30.7,
+        "Detections": 255
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.28999,
+          51.0364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Nom": "Montcenis",
         "FRP": 83.5,
         "Detections": 3
@@ -34,15 +64,15 @@
     {
       "type": "Feature",
       "properties": {
-        "Nom": "Fos-sur-Mer",
-        "FRP": 57.5,
-        "Detections": 185
+        "Nom": "Coupetz",
+        "FRP": 66.9,
+        "Detections": 11
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.88938,
-          43.4398
+          4.37491,
+          48.82608
         ]
       }
     },
@@ -58,126 +88,6 @@
         "coordinates": [
           3.80932,
           51.17138
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Zone isolée",
-        "FRP": 67.9,
-        "Detections": 33
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.17393,
-          45.72357
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Zone isolée",
-        "FRP": 17.9,
-        "Detections": 22
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.34534,
-          45.87015
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Zone isolée",
-        "FRP": 27.6,
-        "Detections": 7
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.86523,
-          41.5575
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Opperding",
-        "FRP": 34.2,
-        "Detections": 3
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.41778,
-          49.63808
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Fort-Mardyck",
-        "FRP": 30.7,
-        "Detections": 248
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.29024,
-          51.03641
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Coupetz",
-        "FRP": 66.9,
-        "Detections": 9
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.37461,
-          48.82645
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Russange",
-        "FRP": 16.5,
-        "Detections": 43
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.95884,
-          49.50336
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Schreckling",
-        "FRP": 37,
-        "Detections": 78
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.74277,
-          49.35108
         ]
       }
     }
