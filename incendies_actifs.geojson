@@ -4,6 +4,21 @@
     {
       "type": "Feature",
       "properties": {
+        "Nom": "Fort-Mardyck",
+        "FRP": 30.7,
+        "Detections": 264
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.28999,
+          51.03647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Nom": "Le Château",
         "FRP": 26.3,
         "Detections": 3
@@ -43,21 +58,6 @@
         "coordinates": [
           4.3752,
           48.82608
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Fort-Mardyck",
-        "FRP": 30.7,
-        "Detections": 263
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.28992,
-          51.03643
         ]
       }
     }
