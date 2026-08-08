@@ -6,58 +6,13 @@
       "properties": {
         "Nom": "Fos-sur-Mer",
         "FRP": 57.5,
-        "Detections": 194
+        "Detections": 197
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.88892,
-          43.43975
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Fort-Mardyck",
-        "FRP": 30.7,
-        "Detections": 258
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.2899,
-          51.03639
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Montcenis",
-        "FRP": 83.5,
-        "Detections": 3
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.40306,
-          46.79545
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Saint-Cyr-d'Estrancourt",
-        "FRP": 21,
-        "Detections": 2
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.3467,
-          48.9142
+          4.88902,
+          43.43983
         ]
       }
     },
@@ -66,13 +21,28 @@
       "properties": {
         "Nom": "Coupetz",
         "FRP": 66.9,
-        "Detections": 11
+        "Detections": 12
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.37491,
+          4.3752,
           48.82608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Fort-Mardyck",
+        "FRP": 30.7,
+        "Detections": 263
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.28992,
+          51.03643
         ]
       }
     }
