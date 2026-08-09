@@ -4,6 +4,21 @@
     {
       "type": "Feature",
       "properties": {
+        "Nom": "La Tieule",
+        "FRP": 131.3,
+        "Detections": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.16792,
+          44.36387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Nom": "Fort-Mardyck",
         "FRP": 30.7,
         "Detections": 277
@@ -28,21 +43,6 @@
         "coordinates": [
           4.88831,
           43.44005
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Le Château",
-        "FRP": 26.3,
-        "Detections": 3
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.8368,
-          47.51111
         ]
       }
     }
