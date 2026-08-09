@@ -4,6 +4,36 @@
     {
       "type": "Feature",
       "properties": {
+        "Nom": "Boulleville",
+        "FRP": 138.9,
+        "Detections": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.40167,
+          49.36009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Jonquerets-de-Livet",
+        "FRP": 194.4,
+        "Detections": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.61163,
+          49.01673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Nom": "Charens",
         "FRP": 84.4,
         "Detections": 7
