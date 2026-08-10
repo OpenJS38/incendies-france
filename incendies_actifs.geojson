@@ -4,6 +4,21 @@
     {
       "type": "Feature",
       "properties": {
+        "Nom": "Jonquerets-de-Livet",
+        "FRP": 194.4,
+        "Detections": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6143,
+          49.01757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Nom": "Fos-sur-Mer",
         "FRP": 57.5,
         "Detections": 207
@@ -43,21 +58,6 @@
         "coordinates": [
           0.40348,
           49.35872
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Jonquerets-de-Livet",
-        "FRP": 194.4,
-        "Detections": 4
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.61264,
-          49.01598
         ]
       }
     },
