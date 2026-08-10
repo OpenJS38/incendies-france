@@ -4,6 +4,21 @@
     {
       "type": "Feature",
       "properties": {
+        "Nom": "Chavaignes",
+        "FRP": 106.9,
+        "Detections": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.06073,
+          47.54159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Nom": "Jonquerets-de-Livet",
         "FRP": 194.4,
         "Detections": 6
@@ -21,13 +36,13 @@
       "properties": {
         "Nom": "Fos-sur-Mer",
         "FRP": 57.5,
-        "Detections": 207
+        "Detections": 211
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.88816,
-          43.44009
+          4.88818,
+          43.44003
         ]
       }
     },
@@ -80,14 +95,14 @@
       "type": "Feature",
       "properties": {
         "Nom": "La Tieule",
-        "FRP": 131.3,
-        "Detections": 3
+        "FRP": 141.7,
+        "Detections": 7
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.16792,
-          44.36387
+          3.16867,
+          44.3642
         ]
       }
     }
