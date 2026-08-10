@@ -90,21 +90,6 @@
           44.53863
         ]
       }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "La Tieule",
-        "FRP": 141.7,
-        "Detections": 8
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.1698,
-          44.36361
-        ]
-      }
     }
   ]
 }
