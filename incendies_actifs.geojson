@@ -96,13 +96,13 @@
       "properties": {
         "Nom": "La Tieule",
         "FRP": 141.7,
-        "Detections": 7
+        "Detections": 8
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.16867,
-          44.3642
+          3.1698,
+          44.36361
         ]
       }
     }
