@@ -4,15 +4,45 @@
     {
       "type": "Feature",
       "properties": {
-        "Nom": "Boulleville",
-        "FRP": 138.9,
-        "Detections": 3
+        "Nom": "Fos-sur-Mer",
+        "FRP": 57.5,
+        "Detections": 207
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.40167,
-          49.36009
+          4.88816,
+          43.44009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Fort-Mardyck",
+        "FRP": 30.7,
+        "Detections": 291
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.28977,
+          51.03658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Boulleville",
+        "FRP": 138.9,
+        "Detections": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.40348,
+          49.35872
         ]
       }
     },
@@ -21,13 +51,13 @@
       "properties": {
         "Nom": "Jonquerets-de-Livet",
         "FRP": 194.4,
-        "Detections": 3
+        "Detections": 4
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.61163,
-          49.01673
+          0.61264,
+          49.01598
         ]
       }
     },
@@ -35,14 +65,14 @@
       "type": "Feature",
       "properties": {
         "Nom": "Charens",
-        "FRP": 84.4,
-        "Detections": 7
+        "FRP": 106.3,
+        "Detections": 14
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.48078,
-          44.53728
+          5.48302,
+          44.53863
         ]
       }
     },
@@ -58,36 +88,6 @@
         "coordinates": [
           3.16792,
           44.36387
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Fort-Mardyck",
-        "FRP": 30.7,
-        "Detections": 277
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.2898,
-          51.03649
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Fos-sur-Mer",
-        "FRP": 57.5,
-        "Detections": 204
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.88831,
-          43.44005
         ]
       }
     }
