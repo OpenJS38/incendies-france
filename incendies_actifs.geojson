@@ -4,6 +4,21 @@
     {
       "type": "Feature",
       "properties": {
+        "Nom": "Le Guédeniau",
+        "FRP": 27.3,
+        "Detections": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.04561,
+          47.48468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Nom": "Chavaignes",
         "FRP": 106.9,
         "Detections": 1
