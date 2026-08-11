@@ -4,15 +4,75 @@
     {
       "type": "Feature",
       "properties": {
-        "Nom": "Le Guédeniau",
-        "FRP": 27.3,
-        "Detections": 2
+        "Nom": "Charens",
+        "FRP": 106.3,
+        "Detections": 19
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.04561,
-          47.48468
+          5.4843,
+          44.53907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Fort-Mardyck",
+        "FRP": 30.7,
+        "Detections": 303
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.28966,
+          51.0366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Le Guédeniau",
+        "FRP": 27.3,
+        "Detections": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.04231,
+          47.48406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Fos-sur-Mer",
+        "FRP": 57.5,
+        "Detections": 216
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.88814,
+          43.44007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Jonquerets-de-Livet",
+        "FRP": 194.4,
+        "Detections": 8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.6149,
+          49.01736
         ]
       }
     },
@@ -28,81 +88,6 @@
         "coordinates": [
           0.06073,
           47.54159
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Jonquerets-de-Livet",
-        "FRP": 194.4,
-        "Detections": 6
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.6143,
-          49.01757
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Fos-sur-Mer",
-        "FRP": 57.5,
-        "Detections": 211
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.88818,
-          43.44003
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Fort-Mardyck",
-        "FRP": 30.7,
-        "Detections": 291
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.28977,
-          51.03658
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Boulleville",
-        "FRP": 138.9,
-        "Detections": 4
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.40348,
-          49.35872
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Charens",
-        "FRP": 106.3,
-        "Detections": 14
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.48302,
-          44.53863
         ]
       }
     }
