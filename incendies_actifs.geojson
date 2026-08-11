@@ -4,6 +4,21 @@
     {
       "type": "Feature",
       "properties": {
+        "Nom": "Vaudherland",
+        "FRP": 19.6,
+        "Detections": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.49239,
+          49.03355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Nom": "Saint-Apollinaire",
         "FRP": 21.5,
         "Detections": 4
