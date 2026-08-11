@@ -4,6 +4,21 @@
     {
       "type": "Feature",
       "properties": {
+        "Nom": "Saint-Apollinaire",
+        "FRP": 21.5,
+        "Detections": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.07664,
+          47.35257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Nom": "Le Guédeniau",
         "FRP": 27.3,
         "Detections": 4
@@ -19,14 +34,29 @@
     {
       "type": "Feature",
       "properties": {
-        "Nom": "Fort-Mardyck",
-        "FRP": 30.7,
-        "Detections": 306
+        "Nom": "Jonquerets-de-Livet",
+        "FRP": 194.4,
+        "Detections": 9
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.28974,
+          0.61512,
+          49.01746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Fort-Mardyck",
+        "FRP": 30.7,
+        "Detections": 310
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2897,
           51.03665
         ]
       }
@@ -51,43 +81,13 @@
       "properties": {
         "Nom": "Fos-sur-Mer",
         "FRP": 57.5,
-        "Detections": 216
+        "Detections": 218
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.88814,
-          43.44007
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Jonquerets-de-Livet",
-        "FRP": 194.4,
-        "Detections": 8
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.6149,
-          49.01736
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Chavaignes",
-        "FRP": 106.9,
-        "Detections": 1
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.06073,
-          47.54159
+          4.8882,
+          43.44009
         ]
       }
     }
