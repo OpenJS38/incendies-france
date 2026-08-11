@@ -4,15 +4,15 @@
     {
       "type": "Feature",
       "properties": {
-        "Nom": "Charens",
-        "FRP": 106.3,
-        "Detections": 19
+        "Nom": "Le Guédeniau",
+        "FRP": 27.3,
+        "Detections": 4
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.4843,
-          44.53907
+          -0.04214,
+          47.4863
         ]
       }
     },
@@ -21,28 +21,28 @@
       "properties": {
         "Nom": "Fort-Mardyck",
         "FRP": 30.7,
-        "Detections": 303
+        "Detections": 306
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.28966,
-          51.0366
+          2.28974,
+          51.03665
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "Nom": "Le Guédeniau",
-        "FRP": 27.3,
-        "Detections": 3
+        "Nom": "Charens",
+        "FRP": 106.3,
+        "Detections": 20
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.04231,
-          47.48406
+          5.48354,
+          44.53835
         ]
       }
     },
