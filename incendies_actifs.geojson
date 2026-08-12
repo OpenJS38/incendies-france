@@ -5,14 +5,14 @@
       "type": "Feature",
       "properties": {
         "Nom": "Parsac",
-        "FRP": 98,
-        "Detections": 3
+        "FRP": 215.6,
+        "Detections": 6
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.99237,
-          47.75945
+          -1.99707,
+          47.75941
         ]
       }
     },
