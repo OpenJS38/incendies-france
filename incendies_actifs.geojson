@@ -6,13 +6,58 @@
       "properties": {
         "Nom": "Vaudherland",
         "FRP": 19.6,
-        "Detections": 3
+        "Detections": 6
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.49239,
-          49.03355
+          2.49125,
+          49.03982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Fort-Mardyck",
+        "FRP": 30.7,
+        "Detections": 320
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.28978,
+          51.03673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Fos-sur-Mer",
+        "FRP": 57.5,
+        "Detections": 223
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.88813,
+          43.4402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Charens",
+        "FRP": 106.3,
+        "Detections": 22
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.48488,
+          44.5391
         ]
       }
     },
@@ -36,73 +81,13 @@
       "properties": {
         "Nom": "Le Guédeniau",
         "FRP": 27.3,
-        "Detections": 4
+        "Detections": 8
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.04214,
-          47.4863
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Jonquerets-de-Livet",
-        "FRP": 194.4,
-        "Detections": 9
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.61512,
-          49.01746
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Fort-Mardyck",
-        "FRP": 30.7,
-        "Detections": 310
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.2897,
-          51.03665
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Charens",
-        "FRP": 106.3,
-        "Detections": 20
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.48354,
-          44.53835
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Fos-sur-Mer",
-        "FRP": 57.5,
-        "Detections": 218
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.8882,
-          43.44009
+          -0.04029,
+          47.48613
         ]
       }
     }
