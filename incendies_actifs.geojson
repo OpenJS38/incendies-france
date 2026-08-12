@@ -6,13 +6,28 @@
       "properties": {
         "Nom": "Fort-Mardyck",
         "FRP": 30.7,
-        "Detections": 321
+        "Detections": 324
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.2898,
-          51.03677
+          2.28983,
+          51.03679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Le Guédeniau",
+        "FRP": 27.3,
+        "Detections": 9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.04074,
+          47.4857
         ]
       }
     },
@@ -58,36 +73,6 @@
         "coordinates": [
           5.48488,
           44.5391
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Saint-Apollinaire",
-        "FRP": 21.5,
-        "Detections": 4
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.07664,
-          47.35257
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Le Guédeniau",
-        "FRP": 27.3,
-        "Detections": 8
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.04029,
-          47.48613
         ]
       }
     }
