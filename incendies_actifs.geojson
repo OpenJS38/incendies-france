@@ -4,15 +4,45 @@
     {
       "type": "Feature",
       "properties": {
-        "Nom": "Fort-Mardyck",
-        "FRP": 30.7,
-        "Detections": 324
+        "Nom": "Parsac",
+        "FRP": 98,
+        "Detections": 3
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.28983,
-          51.03679
+          -1.99237,
+          47.75945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Lacabarède",
+        "FRP": 49.1,
+        "Detections": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.5717,
+          43.46188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Fort-Mardyck",
+        "FRP": 30.7,
+        "Detections": 325
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.28978,
+          51.03676
         ]
       }
     },
