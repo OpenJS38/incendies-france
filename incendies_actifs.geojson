@@ -6,13 +6,13 @@
       "properties": {
         "Nom": "Fos-sur-Mer",
         "FRP": 57.5,
-        "Detections": 231
+        "Detections": 233
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.88828,
-          43.44029
+          4.88826,
+          43.44027
         ]
       }
     },
@@ -36,13 +36,28 @@
       "properties": {
         "Nom": "Fort-Mardyck",
         "FRP": 30.7,
-        "Detections": 332
+        "Detections": 335
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.28985,
-          51.03677
+          2.28995,
+          51.03682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Saint-Georges-de-Noisné",
+        "FRP": 18.3,
+        "Detections": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.24417,
+          46.49685
         ]
       }
     },
@@ -58,21 +73,6 @@
         "coordinates": [
           2.5717,
           43.46188
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Vaudherland",
-        "FRP": 19.6,
-        "Detections": 7
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.49194,
-          49.04066
         ]
       }
     }
