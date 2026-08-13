@@ -4,6 +4,51 @@
     {
       "type": "Feature",
       "properties": {
+        "Nom": "Luglon",
+        "FRP": 156.9,
+        "Detections": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.70977,
+          44.0589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Menon",
+        "FRP": 103.1,
+        "Detections": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.74658,
+          44.07587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "La Roque Bouillac",
+        "FRP": 15.4,
+        "Detections": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.1967,
+          44.57498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Nom": "La Gateauderie",
         "FRP": 187.8,
         "Detections": 4
@@ -13,21 +58,6 @@
         "coordinates": [
           1.02844,
           46.86787
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Menon",
-        "FRP": 64.8,
-        "Detections": 2
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.75264,
-          44.07878
         ]
       }
     },
