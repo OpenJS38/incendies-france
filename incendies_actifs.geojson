@@ -6,13 +6,13 @@
       "properties": {
         "Nom": "La Gateauderie",
         "FRP": 187.8,
-        "Detections": 2
+        "Detections": 4
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.02428,
-          46.86282
+          1.02844,
+          46.86787
         ]
       }
     },
@@ -21,13 +21,13 @@
       "properties": {
         "Nom": "Menon",
         "FRP": 64.8,
-        "Detections": 1
+        "Detections": 2
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.75261,
-          44.08119
+          -0.75264,
+          44.07878
         ]
       }
     },
