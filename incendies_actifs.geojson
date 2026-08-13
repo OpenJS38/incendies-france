@@ -4,15 +4,45 @@
     {
       "type": "Feature",
       "properties": {
-        "Nom": "Parsac",
-        "FRP": 215.6,
-        "Detections": 8
+        "Nom": "Fos-sur-Mer",
+        "FRP": 57.5,
+        "Detections": 231
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.99061,
-          47.76119
+          4.88828,
+          43.44029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Parsac",
+        "FRP": 215.6,
+        "Detections": 10
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.98814,
+          47.76167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Fort-Mardyck",
+        "FRP": 30.7,
+        "Detections": 332
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.28985,
+          51.03677
         ]
       }
     },
@@ -34,75 +64,15 @@
     {
       "type": "Feature",
       "properties": {
-        "Nom": "Fort-Mardyck",
-        "FRP": 30.7,
-        "Detections": 325
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.28978,
-          51.03676
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Le Guédeniau",
-        "FRP": 27.3,
-        "Detections": 9
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.04074,
-          47.4857
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "Nom": "Vaudherland",
         "FRP": 19.6,
-        "Detections": 6
+        "Detections": 7
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.49125,
-          49.03982
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Fos-sur-Mer",
-        "FRP": 57.5,
-        "Detections": 223
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.88813,
-          43.4402
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Charens",
-        "FRP": 106.3,
-        "Detections": 22
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.48488,
-          44.5391
+          2.49194,
+          49.04066
         ]
       }
     }
