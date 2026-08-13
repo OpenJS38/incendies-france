@@ -4,6 +4,66 @@
     {
       "type": "Feature",
       "properties": {
+        "Nom": "La Gateauderie",
+        "FRP": 187.8,
+        "Detections": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.02428,
+          46.86282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Menon",
+        "FRP": 64.8,
+        "Detections": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.75261,
+          44.08119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Parsac",
+        "FRP": 215.6,
+        "Detections": 15
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.99131,
+          47.76311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Coings",
+        "FRP": 53.4,
+        "Detections": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.70538,
+          46.88511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Nom": "Fos-sur-Mer",
         "FRP": 57.5,
         "Detections": 233
@@ -19,60 +79,15 @@
     {
       "type": "Feature",
       "properties": {
-        "Nom": "Parsac",
-        "FRP": 215.6,
-        "Detections": 10
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.98814,
-          47.76167
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "Nom": "Fort-Mardyck",
         "FRP": 30.7,
-        "Detections": 335
+        "Detections": 338
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.28995,
-          51.03682
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Saint-Georges-de-Noisné",
-        "FRP": 18.3,
-        "Detections": 3
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.24417,
-          46.49685
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Lacabarède",
-        "FRP": 49.1,
-        "Detections": 2
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.5717,
-          43.46188
+          2.29006,
+          51.03686
         ]
       }
     }
