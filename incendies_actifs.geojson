@@ -5,14 +5,14 @@
       "type": "Feature",
       "properties": {
         "Nom": "Luglon",
-        "FRP": 156.9,
-        "Detections": 13
+        "FRP": 272.1,
+        "Detections": 14
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.70259,
-          44.05711
+          -0.7031,
+          44.05878
         ]
       }
     },
