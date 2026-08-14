@@ -4,6 +4,21 @@
     {
       "type": "Feature",
       "properties": {
+        "Nom": "Luglon",
+        "FRP": 156.9,
+        "Detections": 13
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.70259,
+          44.05711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Nom": "Saint-Félix-de-l'Héras",
         "FRP": 473.7,
         "Detections": 5
@@ -43,21 +58,6 @@
         "coordinates": [
           2.20081,
           44.57357
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Luglon",
-        "FRP": 156.9,
-        "Detections": 12
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.7015,
-          44.05849
         ]
       }
     },
