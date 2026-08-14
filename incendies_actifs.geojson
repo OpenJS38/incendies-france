@@ -36,13 +36,13 @@
       "properties": {
         "Nom": "La Roque Bouillac",
         "FRP": 15.4,
-        "Detections": 3
+        "Detections": 4
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.1967,
-          44.57498
+          2.19657,
+          44.57552
         ]
       }
     },
@@ -66,13 +66,43 @@
       "properties": {
         "Nom": "Parsac",
         "FRP": 215.6,
-        "Detections": 15
+        "Detections": 17
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -1.99131,
-          47.76311
+          -1.99096,
+          47.76278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Fos-sur-Mer",
+        "FRP": 57.5,
+        "Detections": 236
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.88829,
+          43.44029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Fort-Mardyck",
+        "FRP": 30.7,
+        "Detections": 342
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.29013,
+          51.03688
         ]
       }
     },
@@ -88,36 +118,6 @@
         "coordinates": [
           1.70538,
           46.88511
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Fos-sur-Mer",
-        "FRP": 57.5,
-        "Detections": 233
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.88826,
-          43.44027
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Fort-Mardyck",
-        "FRP": 30.7,
-        "Detections": 338
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.29006,
-          51.03686
         ]
       }
     }
