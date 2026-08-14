@@ -4,15 +4,45 @@
     {
       "type": "Feature",
       "properties": {
-        "Nom": "La Roque Bouillac",
-        "FRP": 25.2,
-        "Detections": 6
+        "Nom": "Saint-Félix-de-l'Héras",
+        "FRP": 473.7,
+        "Detections": 5
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.20031,
-          44.57325
+          3.31707,
+          43.8324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Fort-Mardyck",
+        "FRP": 30.7,
+        "Detections": 353
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.29037,
+          51.03698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "La Roque Bouillac",
+        "FRP": 25.2,
+        "Detections": 7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.20081,
+          44.57357
         ]
       }
     },
@@ -51,73 +81,13 @@
       "properties": {
         "Nom": "Fos-sur-Mer",
         "FRP": 57.5,
-        "Detections": 240
+        "Detections": 242
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.88832,
-          43.44023
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Fort-Mardyck",
-        "FRP": 30.7,
-        "Detections": 346
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.2901,
-          51.0369
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "La Gateauderie",
-        "FRP": 187.8,
-        "Detections": 4
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.02844,
-          46.86787
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Parsac",
-        "FRP": 215.6,
-        "Detections": 18
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.99173,
-          47.76255
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Coings",
-        "FRP": 53.4,
-        "Detections": 1
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.70538,
-          46.88511
+          4.88833,
+          43.44025
         ]
       }
     }
