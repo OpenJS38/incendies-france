@@ -6,13 +6,13 @@
       "properties": {
         "Nom": "Luglon",
         "FRP": 156.9,
-        "Detections": 3
+        "Detections": 5
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.70977,
-          44.0589
+          -0.69948,
+          44.06018
         ]
       }
     },
@@ -21,13 +21,13 @@
       "properties": {
         "Nom": "Menon",
         "FRP": 103.1,
-        "Detections": 6
+        "Detections": 11
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.74658,
-          44.07587
+          -0.74722,
+          44.07669
         ]
       }
     },
