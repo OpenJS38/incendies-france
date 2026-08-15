@@ -6,13 +6,13 @@
       "properties": {
         "Nom": "Luglon",
         "FRP": 272.1,
-        "Detections": 14
+        "Detections": 23
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.7031,
-          44.05878
+          -0.70339,
+          44.05771
         ]
       }
     },
@@ -36,28 +36,13 @@
       "properties": {
         "Nom": "Fort-Mardyck",
         "FRP": 30.7,
-        "Detections": 353
+        "Detections": 358
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.29037,
-          51.03698
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "La Roque Bouillac",
-        "FRP": 25.2,
-        "Detections": 7
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.20081,
-          44.57357
+          2.29022,
+          51.03697
         ]
       }
     },
@@ -66,13 +51,13 @@
       "properties": {
         "Nom": "Menon",
         "FRP": 103.1,
-        "Detections": 22
+        "Detections": 33
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.74811,
-          44.07643
+          -0.74643,
+          44.07682
         ]
       }
     },
@@ -81,13 +66,28 @@
       "properties": {
         "Nom": "Fos-sur-Mer",
         "FRP": 57.5,
-        "Detections": 242
+        "Detections": 245
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.88833,
-          43.44025
+          4.88832,
+          43.44029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "La Roque Bouillac",
+        "FRP": 25.2,
+        "Detections": 11
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.2014,
+          44.57297
         ]
       }
     }
