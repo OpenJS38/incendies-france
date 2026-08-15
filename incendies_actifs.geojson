@@ -75,21 +75,6 @@
           43.8324
         ]
       }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "La Roque Bouillac",
-        "FRP": 25.2,
-        "Detections": 11
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.2014,
-          44.57297
-        ]
-      }
     }
   ]
 }
