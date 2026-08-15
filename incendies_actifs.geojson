@@ -4,6 +4,36 @@
     {
       "type": "Feature",
       "properties": {
+        "Nom": "Fort-Mardyck",
+        "FRP": 30.7,
+        "Detections": 361
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.29016,
+          51.03696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Menon",
+        "FRP": 103.1,
+        "Detections": 41
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.74537,
+          44.07589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Nom": "Luglon",
         "FRP": 272.1,
         "Detections": 30
@@ -13,21 +43,6 @@
         "coordinates": [
           -0.7029,
           44.05719
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Menon",
-        "FRP": 103.1,
-        "Detections": 40
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.74569,
-          44.07594
         ]
       }
     },
@@ -58,21 +73,6 @@
         "coordinates": [
           3.31707,
           43.8324
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Fort-Mardyck",
-        "FRP": 30.7,
-        "Detections": 360
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.29022,
-          51.03699
         ]
       }
     },
