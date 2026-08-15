@@ -4,30 +4,30 @@
     {
       "type": "Feature",
       "properties": {
-        "Nom": "Fort-Mardyck",
-        "FRP": 30.7,
-        "Detections": 363
+        "Nom": "Menon",
+        "FRP": 103.1,
+        "Detections": 44
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.29016,
-          51.03698
+          -0.74472,
+          44.07547
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "Nom": "Menon",
-        "FRP": 103.1,
-        "Detections": 41
+        "Nom": "Fort-Mardyck",
+        "FRP": 30.7,
+        "Detections": 364
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.74537,
-          44.07589
+          2.29019,
+          51.03699
         ]
       }
     },
@@ -36,13 +36,13 @@
       "properties": {
         "Nom": "Luglon",
         "FRP": 272.1,
-        "Detections": 30
+        "Detections": 36
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.7029,
-          44.05719
+          -0.70318,
+          44.0571
         ]
       }
     },
@@ -51,28 +51,13 @@
       "properties": {
         "Nom": "Fos-sur-Mer",
         "FRP": 57.5,
-        "Detections": 246
+        "Detections": 249
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.88812,
-          43.44022
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Saint-Félix-de-l'Héras",
-        "FRP": 473.7,
-        "Detections": 5
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.31707,
-          43.8324
+          4.88815,
+          43.44021
         ]
       }
     }
