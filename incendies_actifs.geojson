@@ -6,13 +6,28 @@
       "properties": {
         "Nom": "La Petite Commune",
         "FRP": 16.9,
-        "Detections": 4
+        "Detections": 6
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.74844,
-          49.91005
+          4.74875,
+          49.91083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Luglon",
+        "FRP": 272.1,
+        "Detections": 52
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.70145,
+          44.05658
         ]
       }
     },
@@ -28,21 +43,6 @@
         "coordinates": [
           2.29025,
           51.03699
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Luglon",
-        "FRP": 272.1,
-        "Detections": 51
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.70168,
-          44.05675
         ]
       }
     },
@@ -73,21 +73,6 @@
         "coordinates": [
           4.88819,
           43.44016
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Saint-Barnabé",
-        "FRP": 20.3,
-        "Detections": 3
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          7.07829,
-          43.76326
         ]
       }
     }
