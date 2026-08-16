@@ -4,6 +4,36 @@
     {
       "type": "Feature",
       "properties": {
+        "Nom": "Fos-sur-Mer",
+        "FRP": 57.5,
+        "Detections": 255
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.88819,
+          43.44016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Luglon",
+        "FRP": 272.1,
+        "Detections": 46
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.70237,
+          44.05664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Nom": "Saint-Barnabé",
         "FRP": 20.3,
         "Detections": 3
@@ -13,66 +43,6 @@
         "coordinates": [
           7.07829,
           43.76326
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Menon",
-        "FRP": 103.1,
-        "Detections": 44
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.74472,
-          44.07547
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Fort-Mardyck",
-        "FRP": 30.7,
-        "Detections": 364
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.29019,
-          51.03699
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Luglon",
-        "FRP": 272.1,
-        "Detections": 36
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.70318,
-          44.0571
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Fos-sur-Mer",
-        "FRP": 57.5,
-        "Detections": 249
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.88815,
-          43.44021
         ]
       }
     }
