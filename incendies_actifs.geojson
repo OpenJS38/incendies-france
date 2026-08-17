@@ -4,15 +4,30 @@
     {
       "type": "Feature",
       "properties": {
+        "Nom": "Luglon",
+        "FRP": 272.1,
+        "Detections": 54
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.7012,
+          44.0565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Nom": "Fos-sur-Mer",
         "FRP": 57.5,
-        "Detections": 261
+        "Detections": 262
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           4.88818,
-          43.44025
+          43.4402
         ]
       }
     },
@@ -21,13 +36,13 @@
       "properties": {
         "Nom": "Fort-Mardyck",
         "FRP": 30.7,
-        "Detections": 376
+        "Detections": 377
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.29028,
-          51.03701
+          2.29031,
+          51.03704
         ]
       }
     }
