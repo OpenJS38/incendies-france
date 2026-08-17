@@ -6,43 +6,13 @@
       "properties": {
         "Nom": "Fos-sur-Mer",
         "FRP": 57.5,
-        "Detections": 256
+        "Detections": 261
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.88821,
-          43.44027
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "La Petite Commune",
-        "FRP": 16.9,
-        "Detections": 6
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.74875,
-          49.91083
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Luglon",
-        "FRP": 272.1,
-        "Detections": 52
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.70145,
-          44.05658
+          4.88818,
+          43.44025
         ]
       }
     },
@@ -51,28 +21,13 @@
       "properties": {
         "Nom": "Fort-Mardyck",
         "FRP": 30.7,
-        "Detections": 373
+        "Detections": 376
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.29025,
-          51.03699
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Menon",
-        "FRP": 103.1,
-        "Detections": 47
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.74407,
-          44.07438
+          2.29028,
+          51.03701
         ]
       }
     }
