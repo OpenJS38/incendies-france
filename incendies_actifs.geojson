@@ -30,21 +30,6 @@
           43.4402
         ]
       }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Fort-Mardyck",
-        "FRP": 30.7,
-        "Detections": 378
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.29032,
-          51.03705
-        ]
-      }
     }
   ]
 }
