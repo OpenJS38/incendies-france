@@ -4,15 +4,30 @@
     {
       "type": "Feature",
       "properties": {
+        "Nom": "Prat-Communal",
+        "FRP": 16.1,
+        "Detections": 7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.51414,
+          42.90297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Nom": "Fos-sur-Mer",
         "FRP": 57.5,
-        "Detections": 273
+        "Detections": 276
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           4.88807,
-          43.4403
+          43.44028
         ]
       }
     },
@@ -28,21 +43,6 @@
         "coordinates": [
           2.29028,
           51.03703
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Prat-Communal",
-        "FRP": 16.1,
-        "Detections": 6
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.51514,
-          42.90304
         ]
       }
     }
