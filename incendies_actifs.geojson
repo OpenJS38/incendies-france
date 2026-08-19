@@ -4,6 +4,21 @@
     {
       "type": "Feature",
       "properties": {
+        "Nom": "Les Huttes",
+        "FRP": 55.4,
+        "Detections": 1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.91241,
+          44.55526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Nom": "Prat-Communal",
         "FRP": 16.1,
         "Detections": 9
