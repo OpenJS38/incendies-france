@@ -36,13 +36,13 @@
       "properties": {
         "Nom": "Prat-Communal",
         "FRP": 16.1,
-        "Detections": 7
+        "Detections": 8
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.51414,
-          42.90297
+          1.51421,
+          42.90251
         ]
       }
     }
