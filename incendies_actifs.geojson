@@ -4,6 +4,21 @@
     {
       "type": "Feature",
       "properties": {
+        "Nom": "Fos-sur-Mer",
+        "FRP": 57.5,
+        "Detections": 281
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.88818,
+          43.44029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Nom": "Prat-Communal",
         "FRP": 16.1,
         "Detections": 7
@@ -13,36 +28,6 @@
         "coordinates": [
           1.51414,
           42.90297
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Fos-sur-Mer",
-        "FRP": 57.5,
-        "Detections": 276
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.88807,
-          43.44028
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Fort-Mardyck",
-        "FRP": 30.7,
-        "Detections": 386
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.29028,
-          51.03703
         ]
       }
     }
