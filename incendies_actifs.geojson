@@ -4,6 +4,21 @@
     {
       "type": "Feature",
       "properties": {
+        "Nom": "Les Huttes",
+        "FRP": 559.7,
+        "Detections": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.93211,
+          44.55438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Nom": "La Marolle-en-Sologne",
         "FRP": 101.5,
         "Detections": 2
@@ -43,21 +58,6 @@
         "coordinates": [
           2.43174,
           46.54245
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Les Huttes",
-        "FRP": 559.7,
-        "Detections": 3
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.92592,
-          44.55322
         ]
       }
     },
