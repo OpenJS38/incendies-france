@@ -4,15 +4,60 @@
     {
       "type": "Feature",
       "properties": {
-        "Nom": "Les Huttes",
-        "FRP": 55.4,
-        "Detections": 1
+        "Nom": "La Marolle-en-Sologne",
+        "FRP": 101.5,
+        "Detections": 2
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.91241,
-          44.55526
+          1.74354,
+          47.59183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Pert",
+        "FRP": 18.7,
+        "Detections": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.90502,
+          47.23618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Vesdun",
+        "FRP": 17,
+        "Detections": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.43174,
+          46.54245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Les Huttes",
+        "FRP": 559.7,
+        "Detections": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.92592,
+          44.55322
         ]
       }
     },
