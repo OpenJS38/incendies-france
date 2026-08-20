@@ -4,6 +4,21 @@
     {
       "type": "Feature",
       "properties": {
+        "Nom": "Fort-Mardyck",
+        "FRP": 30.7,
+        "Detections": 389
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.29031,
+          51.03706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Nom": "Les Huttes",
         "FRP": 559.7,
         "Detections": 4
@@ -66,13 +81,13 @@
       "properties": {
         "Nom": "Prat-Communal",
         "FRP": 16.1,
-        "Detections": 9
+        "Detections": 10
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.51453,
-          42.90233
+          1.51478,
+          42.90219
         ]
       }
     },
@@ -81,28 +96,13 @@
       "properties": {
         "Nom": "Fos-sur-Mer",
         "FRP": 57.5,
-        "Detections": 284
+        "Detections": 286
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.88826,
+          4.88832,
           43.44024
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Fort-Mardyck",
-        "FRP": 30.7,
-        "Detections": 388
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.29029,
-          51.03704
         ]
       }
     }
