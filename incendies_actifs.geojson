@@ -4,15 +4,30 @@
     {
       "type": "Feature",
       "properties": {
-        "Nom": "Fort-Mardyck",
-        "FRP": 30.7,
-        "Detections": 389
+        "Nom": "La Marolle-en-Sologne",
+        "FRP": 101.5,
+        "Detections": 4
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.29031,
-          51.03706
+          1.74231,
+          47.59367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Fort-Mardyck",
+        "FRP": 30.7,
+        "Detections": 396
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.29024,
+          51.03702
         ]
       }
     },
@@ -28,21 +43,6 @@
         "coordinates": [
           3.93211,
           44.55438
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "La Marolle-en-Sologne",
-        "FRP": 101.5,
-        "Detections": 2
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.74354,
-          47.59183
         ]
       }
     },
