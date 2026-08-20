@@ -4,6 +4,36 @@
     {
       "type": "Feature",
       "properties": {
+        "Nom": "Rottani",
+        "FRP": 71.9,
+        "Detections": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.4602,
+          42.16101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Fos-sur-Mer",
+        "FRP": 57.5,
+        "Detections": 288
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.8884,
+          43.44027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Nom": "La Marolle-en-Sologne",
         "FRP": 101.5,
         "Detections": 4
@@ -36,13 +66,13 @@
       "properties": {
         "Nom": "Les Huttes",
         "FRP": 559.7,
-        "Detections": 4
+        "Detections": 6
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.93211,
-          44.55438
+          3.92495,
+          44.55432
         ]
       }
     },
@@ -50,14 +80,14 @@
       "type": "Feature",
       "properties": {
         "Nom": "Pert",
-        "FRP": 18.7,
-        "Detections": 2
+        "FRP": 21.9,
+        "Detections": 3
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.90502,
-          47.23618
+          3.90212,
+          47.23446
         ]
       }
     },
@@ -66,58 +96,13 @@
       "properties": {
         "Nom": "Vesdun",
         "FRP": 17,
-        "Detections": 3
+        "Detections": 6
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.43174,
-          46.54245
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Les Blaches",
-        "FRP": 18.3,
-        "Detections": 2
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.69675,
-          44.33897
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Fos-sur-Mer",
-        "FRP": 57.5,
-        "Detections": 287
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.88836,
-          43.44026
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Prat-Communal",
-        "FRP": 16.1,
-        "Detections": 10
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.51478,
-          42.90219
+          2.43152,
+          46.54297
         ]
       }
     }
