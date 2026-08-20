@@ -79,6 +79,36 @@
     {
       "type": "Feature",
       "properties": {
+        "Nom": "Les Blaches",
+        "FRP": 18.3,
+        "Detections": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.69675,
+          44.33897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Fos-sur-Mer",
+        "FRP": 57.5,
+        "Detections": 287
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.88836,
+          43.44026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Nom": "Prat-Communal",
         "FRP": 16.1,
         "Detections": 10
@@ -88,21 +118,6 @@
         "coordinates": [
           1.51478,
           42.90219
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Fos-sur-Mer",
-        "FRP": 57.5,
-        "Detections": 286
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.88832,
-          43.44024
         ]
       }
     }
