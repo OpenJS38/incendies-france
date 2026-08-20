@@ -66,43 +66,13 @@
       "properties": {
         "Nom": "Les Huttes",
         "FRP": 559.7,
-        "Detections": 6
+        "Detections": 7
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.92495,
-          44.55432
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Pert",
-        "FRP": 21.9,
-        "Detections": 3
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.90212,
-          47.23446
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Vesdun",
-        "FRP": 17,
-        "Detections": 6
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.43152,
-          46.54297
+          3.92762,
+          44.5539
         ]
       }
     }
