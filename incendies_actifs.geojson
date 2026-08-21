@@ -6,13 +6,13 @@
       "properties": {
         "Nom": "Fort-Mardyck",
         "FRP": 30.7,
-        "Detections": 405
+        "Detections": 408
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.29013,
-          51.03699
+          2.29021,
+          51.03702
         ]
       }
     },
@@ -28,21 +28,6 @@
         "coordinates": [
           4.8884,
           43.44028
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Rottani",
-        "FRP": 71.9,
-        "Detections": 2
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.4602,
-          42.16101
         ]
       }
     }
