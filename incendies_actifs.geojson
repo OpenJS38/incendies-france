@@ -4,6 +4,21 @@
     {
       "type": "Feature",
       "properties": {
+        "Nom": "Bonnillet",
+        "FRP": 21.2,
+        "Detections": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.35192,
+          46.62508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Nom": "Fort-Mardyck",
         "FRP": 30.7,
         "Detections": 408
