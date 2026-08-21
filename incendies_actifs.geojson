@@ -4,6 +4,21 @@
     {
       "type": "Feature",
       "properties": {
+        "Nom": "Fort-Mardyck",
+        "FRP": 30.7,
+        "Detections": 400
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.29035,
+          51.03705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Nom": "Rottani",
         "FRP": 71.9,
         "Detections": 2
@@ -13,51 +28,6 @@
         "coordinates": [
           9.4602,
           42.16101
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Fos-sur-Mer",
-        "FRP": 57.5,
-        "Detections": 288
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.8884,
-          43.44027
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "La Marolle-en-Sologne",
-        "FRP": 101.5,
-        "Detections": 4
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.74231,
-          47.59367
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Fort-Mardyck",
-        "FRP": 30.7,
-        "Detections": 396
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.29024,
-          51.03702
         ]
       }
     }
