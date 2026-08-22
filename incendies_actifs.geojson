@@ -6,13 +6,13 @@
       "properties": {
         "Nom": "Sail-sous-Couzan",
         "FRP": 55,
-        "Detections": 1
+        "Detections": 2
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          3.96957,
-          45.72596
+          3.96252,
+          45.72434
         ]
       }
     },
