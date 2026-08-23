@@ -4,6 +4,21 @@
     {
       "type": "Feature",
       "properties": {
+        "Nom": "Fort-Mardyck",
+        "FRP": 30.7,
+        "Detections": 424
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.29047,
+          51.03709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Nom": "Sail-sous-Couzan",
         "FRP": 55,
         "Detections": 2
@@ -13,21 +28,6 @@
         "coordinates": [
           3.96252,
           45.72434
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Fort-Mardyck",
-        "FRP": 30.7,
-        "Detections": 421
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.29041,
-          51.03707
         ]
       }
     },
