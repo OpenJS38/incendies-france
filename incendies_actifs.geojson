@@ -21,28 +21,13 @@
       "properties": {
         "Nom": "Fort-Mardyck",
         "FRP": 30.7,
-        "Detections": 439
+        "Detections": 441
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.29022,
-          51.03695
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Arandon",
-        "FRP": 41.9,
-        "Detections": 3
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.42239,
-          45.71485
+          2.29024,
+          51.03696
         ]
       }
     }
