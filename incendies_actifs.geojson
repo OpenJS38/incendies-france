@@ -4,6 +4,36 @@
     {
       "type": "Feature",
       "properties": {
+        "Nom": "Fos-sur-Mer",
+        "FRP": 57.5,
+        "Detections": 310
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.88848,
+          43.44024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Fort-Mardyck",
+        "FRP": 30.7,
+        "Detections": 439
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.29022,
+          51.03695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Nom": "Arandon",
         "FRP": 41.9,
         "Detections": 3
@@ -13,36 +43,6 @@
         "coordinates": [
           5.42239,
           45.71485
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Fort-Mardyck",
-        "FRP": 30.7,
-        "Detections": 432
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.29039,
-          51.037
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Fos-sur-Mer",
-        "FRP": 57.5,
-        "Detections": 307
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.88849,
-          43.4403
         ]
       }
     }
