@@ -6,13 +6,13 @@
       "properties": {
         "Nom": "Fort-Mardyck",
         "FRP": 30.7,
-        "Detections": 453
+        "Detections": 454
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.29006,
-          51.03691
+          2.29007,
+          51.03692
         ]
       }
     },
@@ -21,28 +21,13 @@
       "properties": {
         "Nom": "Fos-sur-Mer",
         "FRP": 57.5,
-        "Detections": 317
+        "Detections": 318
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.88859,
-          43.44029
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Marcei",
-        "FRP": 19.7,
-        "Detections": 2
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.05599,
-          48.66919
+          4.88856,
+          43.44028
         ]
       }
     }
