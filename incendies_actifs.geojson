@@ -6,7 +6,7 @@
       "properties": {
         "Nom": "Fort-Mardyck",
         "FRP": 30.7,
-        "Detections": 452
+        "Detections": 453
       },
       "geometry": {
         "type": "Point",
@@ -28,6 +28,21 @@
         "coordinates": [
           4.88859,
           43.44029
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Marcei",
+        "FRP": 19.7,
+        "Detections": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.05599,
+          48.66919
         ]
       }
     }
