@@ -4,6 +4,21 @@
     {
       "type": "Feature",
       "properties": {
+        "Nom": "Marcei",
+        "FRP": 19.7,
+        "Detections": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.05714,
+          48.66877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Nom": "Fos-sur-Mer",
         "FRP": 57.5,
         "Detections": 325
