@@ -6,13 +6,13 @@
       "properties": {
         "Nom": "Fort-Mardyck",
         "FRP": 30.7,
-        "Detections": 489
+        "Detections": 490
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.29011,
-          51.03696
+          2.2901,
+          51.03695
         ]
       }
     },
@@ -21,28 +21,13 @@
       "properties": {
         "Nom": "Fos-sur-Mer",
         "FRP": 57.5,
-        "Detections": 349
+        "Detections": 351
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.88858,
+          4.88859,
           43.44044
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Cagnano",
-        "FRP": 157.4,
-        "Detections": 4
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.45379,
-          42.86926
         ]
       }
     }
