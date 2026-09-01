@@ -4,15 +4,30 @@
     {
       "type": "Feature",
       "properties": {
-        "Nom": "Fort-Mardyck",
-        "FRP": 30.7,
-        "Detections": 497
+        "Nom": "Lavéra",
+        "FRP": 33.8,
+        "Detections": 2
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.29016,
-          51.03696
+          5.02189,
+          43.37516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Fort-Mardyck",
+        "FRP": 30.7,
+        "Detections": 500
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.29009,
+          51.03697
         ]
       }
     },
@@ -21,13 +36,43 @@
       "properties": {
         "Nom": "Fos-sur-Mer",
         "FRP": 57.5,
-        "Detections": 369
+        "Detections": 370
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.8886,
-          43.4404
+          4.88863,
+          43.44041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Cret Loup",
+        "FRP": 20.7,
+        "Detections": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.31383,
+          46.13897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Teppe Rosse",
+        "FRP": 19.5,
+        "Detections": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.46609,
+          42.08912
         ]
       }
     }
