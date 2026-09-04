@@ -19,30 +19,30 @@
     {
       "type": "Feature",
       "properties": {
-        "Nom": "Fos-sur-Mer",
-        "FRP": 57.5,
-        "Detections": 398
+        "Nom": "Etsaut",
+        "FRP": 25.1,
+        "Detections": 9
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.88862,
-          43.44044
+          -0.53737,
+          42.92539
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "Nom": "Etsaut",
-        "FRP": 25.1,
-        "Detections": 7
+        "Nom": "Fos-sur-Mer",
+        "FRP": 57.5,
+        "Detections": 401
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.53805,
-          42.92496
+          4.88864,
+          43.44046
         ]
       }
     }
