@@ -4,6 +4,36 @@
     {
       "type": "Feature",
       "properties": {
+        "Nom": "Axat",
+        "FRP": 298.5,
+        "Detections": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.27701,
+          42.81048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Franquevaux",
+        "FRP": 22.5,
+        "Detections": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.3667,
+          43.67952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Nom": "Fort-Mardyck",
         "FRP": 30.7,
         "Detections": 511
