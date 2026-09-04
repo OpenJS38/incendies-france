@@ -4,15 +4,30 @@
     {
       "type": "Feature",
       "properties": {
-        "Nom": "Fort-Mardyck",
-        "FRP": 30.7,
-        "Detections": 506
+        "Nom": "Fos-sur-Mer",
+        "FRP": 57.5,
+        "Detections": 398
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.29009,
-          51.03699
+          4.88862,
+          43.44044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Fort-Mardyck",
+        "FRP": 30.7,
+        "Detections": 510
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.29005,
+          51.03697
         ]
       }
     },
@@ -21,43 +36,13 @@
       "properties": {
         "Nom": "Etsaut",
         "FRP": 25.1,
-        "Detections": 6
+        "Detections": 7
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.53581,
-          42.92436
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Fos-sur-Mer",
-        "FRP": 57.5,
-        "Detections": 390
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.88859,
-          43.44047
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Lavéra",
-        "FRP": 33.8,
-        "Detections": 6
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.01478,
-          43.37696
+          -0.53805,
+          42.92496
         ]
       }
     }
