@@ -6,13 +6,58 @@
       "properties": {
         "Nom": "Axat",
         "FRP": 298.5,
-        "Detections": 2
+        "Detections": 5
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.27701,
-          42.81048
+          2.28309,
+          42.81247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Etsaut",
+        "FRP": 25.1,
+        "Detections": 11
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.5388,
+          42.92466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Fort-Mardyck",
+        "FRP": 30.7,
+        "Detections": 515
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.29003,
+          51.03696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Fos-sur-Mer",
+        "FRP": 57.5,
+        "Detections": 404
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.88865,
+          43.44046
         ]
       }
     },
@@ -28,51 +73,6 @@
         "coordinates": [
           4.3667,
           43.67952
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Fort-Mardyck",
-        "FRP": 30.7,
-        "Detections": 511
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.29006,
-          51.03698
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Etsaut",
-        "FRP": 25.1,
-        "Detections": 9
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.53737,
-          42.92539
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Fos-sur-Mer",
-        "FRP": 57.5,
-        "Detections": 401
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.88864,
-          43.44046
         ]
       }
     }
