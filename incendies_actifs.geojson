@@ -64,15 +64,30 @@
     {
       "type": "Feature",
       "properties": {
-        "Nom": "Franquevaux",
-        "FRP": 22.5,
+        "Nom": "Grand Champ",
+        "FRP": 27.7,
         "Detections": 3
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.3667,
-          43.67952
+          0.03861,
+          45.18513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Franquevaux",
+        "FRP": 22.5,
+        "Detections": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.36612,
+          43.67839
         ]
       }
     }
