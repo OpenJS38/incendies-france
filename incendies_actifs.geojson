@@ -4,15 +4,30 @@
     {
       "type": "Feature",
       "properties": {
-        "Nom": "Fos-sur-Mer",
-        "FRP": 57.5,
-        "Detections": 406
+        "Nom": "Bareilles",
+        "FRP": 19.4,
+        "Detections": 2
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.88862,
-          43.44045
+          0.46136,
+          42.89879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Fos-sur-Mer",
+        "FRP": 57.5,
+        "Detections": 409
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.88864,
+          43.44046
         ]
       }
     },
@@ -34,15 +49,30 @@
     {
       "type": "Feature",
       "properties": {
-        "Nom": "Etsaut",
-        "FRP": 25.1,
-        "Detections": 11
+        "Nom": "Franquevaux",
+        "FRP": 22.5,
+        "Detections": 5
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.5388,
-          42.92466
+          4.36538,
+          43.67761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Etsaut",
+        "FRP": 25.1,
+        "Detections": 14
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.53867,
+          42.92396
         ]
       }
     },
@@ -58,36 +88,6 @@
         "coordinates": [
           2.29003,
           51.03696
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Grand Champ",
-        "FRP": 27.7,
-        "Detections": 3
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.03861,
-          45.18513
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Franquevaux",
-        "FRP": 22.5,
-        "Detections": 4
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.36612,
-          43.67839
         ]
       }
     }
