@@ -64,6 +64,21 @@
     {
       "type": "Feature",
       "properties": {
+        "Nom": "Etsaut",
+        "FRP": 25.1,
+        "Detections": 18
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.54072,
+          42.92321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Nom": "Les Épenards",
         "FRP": 33.8,
         "Detections": 3
@@ -73,21 +88,6 @@
         "coordinates": [
           3.30318,
           48.1553
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Etsaut",
-        "FRP": 25.1,
-        "Detections": 16
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.53951,
-          42.92365
         ]
       }
     }
