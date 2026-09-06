@@ -21,12 +21,12 @@
       "properties": {
         "Nom": "Fos-sur-Mer",
         "FRP": 57.5,
-        "Detections": 412
+        "Detections": 413
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.88865,
+          4.88867,
           43.44047
         ]
       }
@@ -36,13 +36,28 @@
       "properties": {
         "Nom": "Fort-Mardyck",
         "FRP": 30.7,
-        "Detections": 522
+        "Detections": 523
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           2.29,
-          51.03693
+          51.03694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Bareilles",
+        "FRP": 19.4,
+        "Detections": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.46061,
+          42.89909
         ]
       }
     },
@@ -73,36 +88,6 @@
         "coordinates": [
           -0.53951,
           42.92365
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Axat",
-        "FRP": 298.5,
-        "Detections": 8
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.28357,
-          42.81335
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Bareilles",
-        "FRP": 19.4,
-        "Detections": 3
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.46098,
-          42.89893
         ]
       }
     }
