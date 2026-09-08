@@ -4,30 +4,30 @@
     {
       "type": "Feature",
       "properties": {
-        "Nom": "Bareilles",
-        "FRP": 19.4,
-        "Detections": 12
+        "Nom": "Fos-sur-Mer",
+        "FRP": 57.5,
+        "Detections": 434
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.45847,
-          42.89747
+          4.88881,
+          43.44049
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "Nom": "Fos-sur-Mer",
-        "FRP": 57.5,
-        "Detections": 431
+        "Nom": "Bareilles",
+        "FRP": 30,
+        "Detections": 16
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.88883,
-          43.44049
+          0.45732,
+          42.89873
         ]
       }
     }
