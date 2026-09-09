@@ -4,15 +4,15 @@
     {
       "type": "Feature",
       "properties": {
-        "Nom": "Fos-sur-Mer",
-        "FRP": 57.5,
-        "Detections": 434
+        "Nom": "Fort-Mardyck",
+        "FRP": 30.7,
+        "Detections": 542
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.88881,
-          43.44049
+          2.2901,
+          51.03702
         ]
       }
     },
@@ -21,13 +21,13 @@
       "properties": {
         "Nom": "Bareilles",
         "FRP": 30,
-        "Detections": 16
+        "Detections": 18
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          0.45732,
-          42.89873
+          0.45661,
+          42.89927
         ]
       }
     }
