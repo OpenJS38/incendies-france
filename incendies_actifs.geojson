@@ -6,28 +6,13 @@
       "properties": {
         "Nom": "Fort-Mardyck",
         "FRP": 30.7,
-        "Detections": 542
+        "Detections": 544
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.2901,
-          51.03702
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Bareilles",
-        "FRP": 30,
-        "Detections": 18
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.45661,
-          42.89927
+          2.29011,
+          51.03703
         ]
       }
     }
