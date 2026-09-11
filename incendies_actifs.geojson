@@ -4,15 +4,30 @@
     {
       "type": "Feature",
       "properties": {
-        "Nom": "Fort-Mardyck",
-        "FRP": 30.7,
-        "Detections": 555
+        "Nom": "Luglon",
+        "FRP": 83.8,
+        "Detections": 2
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.29016,
-          51.03705
+          -0.6609,
+          44.10345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Fort-Mardyck",
+        "FRP": 30.7,
+        "Detections": 557
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.29022,
+          51.03708
         ]
       }
     },
