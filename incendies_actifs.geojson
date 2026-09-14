@@ -4,15 +4,75 @@
     {
       "type": "Feature",
       "properties": {
-        "Nom": "Fos-sur-Mer",
-        "FRP": 57.5,
-        "Detections": 475
+        "Nom": "Saint-Genis-du-Bois",
+        "FRP": 29,
+        "Detections": 3
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.88869,
-          43.44055
+          -0.20088,
+          44.70498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Vingrau",
+        "FRP": 54,
+        "Detections": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.8304,
+          42.84487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Chevresis-Monceau",
+        "FRP": 20.8,
+        "Detections": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.55417,
+          49.7504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Fos-sur-Mer",
+        "FRP": 57.5,
+        "Detections": 476
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.88868,
+          43.44056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Fouillereau",
+        "FRP": 19.7,
+        "Detections": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.5665,
+          46.91996
         ]
       }
     }
