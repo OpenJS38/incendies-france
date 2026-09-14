@@ -6,12 +6,12 @@
       "properties": {
         "Nom": "Fos-sur-Mer",
         "FRP": 57.5,
-        "Detections": 473
+        "Detections": 475
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.88867,
+          4.88869,
           43.44055
         ]
       }
