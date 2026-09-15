@@ -4,6 +4,21 @@
     {
       "type": "Feature",
       "properties": {
+        "Nom": "Fos-sur-Mer",
+        "FRP": 57.5,
+        "Detections": 479
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.88879,
+          43.44065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Nom": "Saint-Genis-du-Bois",
         "FRP": 29,
         "Detections": 3
@@ -43,21 +58,6 @@
         "coordinates": [
           3.55417,
           49.7504
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Fos-sur-Mer",
-        "FRP": 57.5,
-        "Detections": 476
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.88868,
-          43.44056
         ]
       }
     },
