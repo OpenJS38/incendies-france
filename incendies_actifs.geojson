@@ -4,75 +4,45 @@
     {
       "type": "Feature",
       "properties": {
+        "Nom": "Refuge d‘en Beys",
+        "FRP": 31.7,
+        "Detections": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.93706,
+          42.64386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Thury-en-Valois",
+        "FRP": 15.6,
+        "Detections": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3.02166,
+          49.15612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Nom": "Fos-sur-Mer",
         "FRP": 57.5,
-        "Detections": 481
+        "Detections": 484
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.88882,
-          43.44064
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Saint-Genis-du-Bois",
-        "FRP": 29,
-        "Detections": 3
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.20088,
-          44.70498
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Vingrau",
-        "FRP": 54,
-        "Detections": 3
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.8304,
-          42.84487
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Chevresis-Monceau",
-        "FRP": 20.8,
-        "Detections": 2
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.55417,
-          49.7504
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Barion",
-        "FRP": 25.4,
-        "Detections": 2
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.46475,
-          45.00957
+          4.88883,
+          43.44065
         ]
       }
     }
