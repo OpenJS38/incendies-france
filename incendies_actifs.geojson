@@ -6,13 +6,13 @@
       "properties": {
         "Nom": "Fos-sur-Mer",
         "FRP": 57.5,
-        "Detections": 479
+        "Detections": 481
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.88879,
-          43.44065
+          4.88882,
+          43.44064
         ]
       }
     },
@@ -64,15 +64,15 @@
     {
       "type": "Feature",
       "properties": {
-        "Nom": "Fouillereau",
-        "FRP": 19.7,
+        "Nom": "Barion",
+        "FRP": 25.4,
         "Detections": 2
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.5665,
-          46.91996
+          4.46475,
+          45.00957
         ]
       }
     }
