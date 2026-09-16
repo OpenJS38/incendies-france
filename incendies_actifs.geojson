@@ -4,6 +4,21 @@
     {
       "type": "Feature",
       "properties": {
+        "Nom": "Fos-sur-Mer",
+        "FRP": 57.5,
+        "Detections": 486
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.88886,
+          43.44069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Nom": "Refuge d‘en Beys",
         "FRP": 31.7,
         "Detections": 3
@@ -28,21 +43,6 @@
         "coordinates": [
           3.02166,
           49.15612
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Fos-sur-Mer",
-        "FRP": 57.5,
-        "Detections": 484
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.88883,
-          43.44065
         ]
       }
     }
