@@ -6,13 +6,13 @@
       "properties": {
         "Nom": "Fos-sur-Mer",
         "FRP": 57.5,
-        "Detections": 486
+        "Detections": 492
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.88886,
-          43.44069
+          4.88873,
+          43.4407
         ]
       }
     },
@@ -21,13 +21,13 @@
       "properties": {
         "Nom": "Refuge d‘en Beys",
         "FRP": 31.7,
-        "Detections": 3
+        "Detections": 4
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.93706,
-          42.64386
+          1.93459,
+          42.64327
         ]
       }
     },
