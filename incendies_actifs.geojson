@@ -4,14 +4,29 @@
     {
       "type": "Feature",
       "properties": {
-        "Nom": "Fos-sur-Mer",
-        "FRP": 57.5,
-        "Detections": 506
+        "Nom": "Listrella",
+        "FRP": 135.4,
+        "Detections": 3
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.88853,
+          8.78639,
+          42.52624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Fos-sur-Mer",
+        "FRP": 57.5,
+        "Detections": 508
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.88855,
           43.44074
         ]
       }
@@ -35,29 +50,14 @@
       "type": "Feature",
       "properties": {
         "Nom": "Cité Grande Lande",
-        "FRP": 80.4,
-        "Detections": 8
+        "FRP": 144.9,
+        "Detections": 11
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.92501,
-          44.18317
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Caselle",
-        "FRP": 15.4,
-        "Detections": 2
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.26633,
-          42.27134
+          -0.92697,
+          44.18252
         ]
       }
     }
