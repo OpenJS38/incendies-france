@@ -4,15 +4,45 @@
     {
       "type": "Feature",
       "properties": {
-        "Nom": "Cité Grande Lande",
-        "FRP": 80.4,
-        "Detections": 7
+        "Nom": "Cité des Sauvaires",
+        "FRP": 22,
+        "Detections": 4
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -0.92556,
-          44.1827
+          5.48302,
+          43.45428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Fos-sur-Mer",
+        "FRP": 57.5,
+        "Detections": 505
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.88849,
+          43.44072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Cité Grande Lande",
+        "FRP": 80.4,
+        "Detections": 8
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.92501,
+          44.18317
         ]
       }
     },
@@ -28,36 +58,6 @@
         "coordinates": [
           9.26633,
           42.27134
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Fos-sur-Mer",
-        "FRP": 57.5,
-        "Detections": 498
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.88876,
-          43.44071
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Refuge d‘en Beys",
-        "FRP": 31.7,
-        "Detections": 6
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.93371,
-          42.64221
         ]
       }
     }
