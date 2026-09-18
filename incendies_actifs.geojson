@@ -36,28 +36,13 @@
       "properties": {
         "Nom": "Fos-sur-Mer",
         "FRP": 57.5,
-        "Detections": 514
+        "Detections": 515
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.88857,
-          43.44071
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Listrella",
-        "FRP": 135.4,
-        "Detections": 3
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          8.78639,
-          42.52624
+          4.8886,
+          43.44072
         ]
       }
     }
