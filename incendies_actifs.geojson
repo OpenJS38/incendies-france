@@ -4,6 +4,21 @@
     {
       "type": "Feature",
       "properties": {
+        "Nom": "Fos-sur-Mer",
+        "FRP": 57.5,
+        "Detections": 513
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.88859,
+          43.44071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Nom": "Listrella",
         "FRP": 135.4,
         "Detections": 3
@@ -13,51 +28,6 @@
         "coordinates": [
           8.78639,
           42.52624
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Fos-sur-Mer",
-        "FRP": 57.5,
-        "Detections": 508
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.88855,
-          43.44074
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Cité des Sauvaires",
-        "FRP": 22,
-        "Detections": 4
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.48302,
-          43.45428
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Cité Grande Lande",
-        "FRP": 144.9,
-        "Detections": 11
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.92697,
-          44.18252
         ]
       }
     }
