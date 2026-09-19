@@ -4,6 +4,21 @@
     {
       "type": "Feature",
       "properties": {
+        "Nom": "Goncelin",
+        "FRP": 65.3,
+        "Detections": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.97417,
+          45.33813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Nom": "Lisacq",
         "FRP": 44.7,
         "Detections": 5
