@@ -6,28 +6,13 @@
       "properties": {
         "Nom": "Lisacq",
         "FRP": 44.7,
-        "Detections": 3
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.13796,
-          44.13825
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Cité des Sauvaires",
-        "FRP": 22,
         "Detections": 5
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.47851,
-          43.45386
+          -1.1354,
+          44.13796
         ]
       }
     },
@@ -36,13 +21,43 @@
       "properties": {
         "Nom": "Fos-sur-Mer",
         "FRP": 57.5,
-        "Detections": 515
+        "Detections": 521
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.8886,
-          43.44072
+          4.88865,
+          43.44071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Flins-sur-Seine",
+        "FRP": 80.7,
+        "Detections": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.86184,
+          48.97512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Cité des Sauvaires",
+        "FRP": 22,
+        "Detections": 7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.47362,
+          43.45361
         ]
       }
     }
