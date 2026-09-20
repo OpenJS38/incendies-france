@@ -4,60 +4,30 @@
     {
       "type": "Feature",
       "properties": {
+        "Nom": "La Guiberdière",
+        "FRP": 28.2,
+        "Detections": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.12944,
+          48.40199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Nom": "Goncelin",
         "FRP": 65.3,
-        "Detections": 2
+        "Detections": 4
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.97417,
-          45.33813
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Fos-sur-Mer",
-        "FRP": 57.5,
-        "Detections": 524
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.88869,
-          43.44072
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Lisacq",
-        "FRP": 44.7,
-        "Detections": 5
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -1.1354,
-          44.13796
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Flins-sur-Seine",
-        "FRP": 80.7,
-        "Detections": 5
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.86184,
-          48.97512
+          5.9726,
+          45.33697
         ]
       }
     },
@@ -66,13 +36,28 @@
       "properties": {
         "Nom": "Cité des Sauvaires",
         "FRP": 22,
-        "Detections": 7
+        "Detections": 8
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.47362,
-          43.45361
+          5.47219,
+          43.45349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Fos-sur-Mer",
+        "FRP": 57.5,
+        "Detections": 531
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.88874,
+          43.44073
         ]
       }
     }
