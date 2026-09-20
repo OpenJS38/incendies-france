@@ -4,6 +4,21 @@
     {
       "type": "Feature",
       "properties": {
+        "Nom": "Cité des Sauvaires",
+        "FRP": 22,
+        "Detections": 9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.47875,
+          43.45429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Nom": "La Guiberdière",
         "FRP": 28.2,
         "Detections": 3
@@ -28,21 +43,6 @@
         "coordinates": [
           5.9726,
           45.33697
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Cité des Sauvaires",
-        "FRP": 22,
-        "Detections": 8
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.47219,
-          43.45349
         ]
       }
     },
