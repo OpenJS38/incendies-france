@@ -19,45 +19,15 @@
     {
       "type": "Feature",
       "properties": {
-        "Nom": "La Guiberdière",
-        "FRP": 28.2,
-        "Detections": 3
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -0.12944,
-          48.40199
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Goncelin",
-        "FRP": 65.3,
-        "Detections": 4
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.9726,
-          45.33697
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "Nom": "Fos-sur-Mer",
         "FRP": 57.5,
-        "Detections": 531
+        "Detections": 533
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.88874,
-          43.44073
+          4.88876,
+          43.44074
         ]
       }
     }
