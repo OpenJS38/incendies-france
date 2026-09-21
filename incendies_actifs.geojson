@@ -4,30 +4,15 @@
     {
       "type": "Feature",
       "properties": {
-        "Nom": "Cité des Sauvaires",
-        "FRP": 22,
-        "Detections": 9
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.47875,
-          43.45429
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "Nom": "Fos-sur-Mer",
         "FRP": 57.5,
-        "Detections": 533
+        "Detections": 538
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.88876,
-          43.44074
+          4.88878,
+          43.44072
         ]
       }
     }
