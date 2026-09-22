@@ -4,15 +4,30 @@
     {
       "type": "Feature",
       "properties": {
-        "Nom": "Fort-Mardyck",
-        "FRP": 16.2,
-        "Detections": 35
+        "Nom": "Fos-sur-Mer",
+        "FRP": 57.5,
+        "Detections": 545
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.28682,
-          51.03714
+          4.88884,
+          43.44073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Fort-Mardyck",
+        "FRP": 16.2,
+        "Detections": 36
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.28713,
+          51.03725
         ]
       }
     },
@@ -34,30 +49,15 @@
     {
       "type": "Feature",
       "properties": {
-        "Nom": "Fos-sur-Mer",
-        "FRP": 57.5,
-        "Detections": 543
+        "Nom": "Salles-d'Aude",
+        "FRP": 19.3,
+        "Detections": 2
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.88879,
-          43.44071
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Beauvoisin",
-        "FRP": 31.5,
-        "Detections": 4
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.34864,
-          43.70264
+          3.10892,
+          43.22617
         ]
       }
     }
