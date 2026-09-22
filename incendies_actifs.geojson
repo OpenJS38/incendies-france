@@ -4,6 +4,21 @@
     {
       "type": "Feature",
       "properties": {
+        "Nom": "Fort-Mardyck",
+        "FRP": 16.2,
+        "Detections": 35
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.28682,
+          51.03714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Nom": "Cité des Sauvaires",
         "FRP": 22,
         "Detections": 10
@@ -13,21 +28,6 @@
         "coordinates": [
           5.47724,
           43.45402
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Fort-Mardyck",
-        "FRP": 16.2,
-        "Detections": 33
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.28641,
-          51.03687
         ]
       }
     },
