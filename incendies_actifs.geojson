@@ -45,21 +45,6 @@
           43.45402
         ]
       }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Salles-d'Aude",
-        "FRP": 19.3,
-        "Detections": 2
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.10892,
-          43.22617
-        ]
-      }
     }
   ]
 }
