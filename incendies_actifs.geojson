@@ -4,6 +4,51 @@
     {
       "type": "Feature",
       "properties": {
+        "Nom": "Cité des Sauvaires",
+        "FRP": 22,
+        "Detections": 10
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.47724,
+          43.45402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Fort-Mardyck",
+        "FRP": 16.2,
+        "Detections": 33
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.28641,
+          51.03687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Fos-sur-Mer",
+        "FRP": 57.5,
+        "Detections": 543
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.88879,
+          43.44071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Nom": "Beauvoisin",
         "FRP": 31.5,
         "Detections": 4
@@ -13,21 +58,6 @@
         "coordinates": [
           4.34864,
           43.70264
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Fos-sur-Mer",
-        "FRP": 57.5,
-        "Detections": 538
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.88878,
-          43.44072
         ]
       }
     }
