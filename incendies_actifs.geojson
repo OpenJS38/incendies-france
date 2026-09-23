@@ -4,6 +4,36 @@
     {
       "type": "Feature",
       "properties": {
+        "Nom": "Bonnefontaine",
+        "FRP": 70.9,
+        "Detections": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.74532,
+          46.73683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Fos-sur-Mer",
+        "FRP": 57.5,
+        "Detections": 554
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.88878,
+          43.44075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Nom": "Beauvoisin",
         "FRP": 31.5,
         "Detections": 6
@@ -13,21 +43,6 @@
         "coordinates": [
           4.35135,
           43.70653
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Fos-sur-Mer",
-        "FRP": 57.5,
-        "Detections": 552
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.88878,
-          43.44074
         ]
       }
     },
@@ -58,21 +73,6 @@
         "coordinates": [
           2.28676,
           51.03676
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Ax 3 Domaines",
-        "FRP": 32.5,
-        "Detections": 6
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.76978,
-          42.69818
         ]
       }
     }
