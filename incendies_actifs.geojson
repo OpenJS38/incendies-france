@@ -6,28 +6,13 @@
       "properties": {
         "Nom": "Fos-sur-Mer",
         "FRP": 57.5,
-        "Detections": 545
+        "Detections": 552
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.88884,
-          43.44073
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Fort-Mardyck",
-        "FRP": 16.2,
-        "Detections": 36
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.28713,
-          51.03725
+          4.88878,
+          43.44074
         ]
       }
     },
@@ -36,13 +21,43 @@
       "properties": {
         "Nom": "Cité des Sauvaires",
         "FRP": 22,
-        "Detections": 10
+        "Detections": 11
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.47724,
-          43.45402
+          5.47566,
+          43.45389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Fort-Mardyck",
+        "FRP": 16.2,
+        "Detections": 45
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.28676,
+          51.03676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Ax 3 Domaines",
+        "FRP": 32.5,
+        "Detections": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.76978,
+          42.69818
         ]
       }
     }
