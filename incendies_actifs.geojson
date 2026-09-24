@@ -4,6 +4,21 @@
     {
       "type": "Feature",
       "properties": {
+        "Nom": "Fos-sur-Mer",
+        "FRP": 57.5,
+        "Detections": 557
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.88871,
+          43.44073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Nom": "Bonnefontaine",
         "FRP": 70.9,
         "Detections": 2
@@ -19,15 +34,15 @@
     {
       "type": "Feature",
       "properties": {
-        "Nom": "Fos-sur-Mer",
-        "FRP": 57.5,
-        "Detections": 554
+        "Nom": "Fort-Mardyck",
+        "FRP": 16.2,
+        "Detections": 53
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.88878,
-          43.44075
+          2.28803,
+          51.03684
         ]
       }
     },
@@ -43,36 +58,6 @@
         "coordinates": [
           4.35135,
           43.70653
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Cité des Sauvaires",
-        "FRP": 22,
-        "Detections": 11
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.47566,
-          43.45389
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Fort-Mardyck",
-        "FRP": 16.2,
-        "Detections": 45
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.28676,
-          51.03676
         ]
       }
     }
