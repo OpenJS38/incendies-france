@@ -4,6 +4,51 @@
     {
       "type": "Feature",
       "properties": {
+        "Nom": "Cité Nord",
+        "FRP": 23.1,
+        "Detections": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.19344,
+          43.49897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Fort-Mardyck",
+        "FRP": 16.2,
+        "Detections": 66
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.28903,
+          51.03684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Fos-sur-Mer",
+        "FRP": 57.5,
+        "Detections": 573
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.88866,
+          43.44073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Nom": "Cité des Sauvaires",
         "FRP": 22,
         "Detections": 13
@@ -13,36 +58,6 @@
         "coordinates": [
           5.47881,
           43.45432
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Fos-sur-Mer",
-        "FRP": 57.5,
-        "Detections": 567
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.8886,
-          43.44073
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Fort-Mardyck",
-        "FRP": 16.2,
-        "Detections": 60
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.28855,
-          51.03689
         ]
       }
     }
