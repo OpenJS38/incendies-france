@@ -4,6 +4,21 @@
     {
       "type": "Feature",
       "properties": {
+        "Nom": "Mijanès",
+        "FRP": 21.4,
+        "Detections": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.00045,
+          42.71489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Nom": "Cité Nord",
         "FRP": 23.1,
         "Detections": 2
@@ -36,28 +51,13 @@
       "properties": {
         "Nom": "Fos-sur-Mer",
         "FRP": 57.5,
-        "Detections": 573
+        "Detections": 574
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.88866,
+          4.88865,
           43.44073
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Cité des Sauvaires",
-        "FRP": 22,
-        "Detections": 13
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.47881,
-          43.45432
         ]
       }
     }
