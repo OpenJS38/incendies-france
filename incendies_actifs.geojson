@@ -4,30 +4,30 @@
     {
       "type": "Feature",
       "properties": {
-        "Nom": "Mijanès",
-        "FRP": 21.4,
-        "Detections": 2
+        "Nom": "Fos-sur-Mer",
+        "FRP": 57.5,
+        "Detections": 581
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.00045,
-          42.71489
+          4.88862,
+          43.44075
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "Nom": "Cité Nord",
-        "FRP": 23.1,
-        "Detections": 2
+        "Nom": "Cité des Sauvaires",
+        "FRP": 22,
+        "Detections": 14
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.19344,
-          43.49897
+          5.47762,
+          43.45428
         ]
       }
     },
@@ -36,28 +36,28 @@
       "properties": {
         "Nom": "Fort-Mardyck",
         "FRP": 16.2,
-        "Detections": 66
+        "Detections": 71
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.28903,
-          51.03684
+          2.28936,
+          51.03709
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "Nom": "Fos-sur-Mer",
-        "FRP": 57.5,
-        "Detections": 574
+        "Nom": "Mijanès",
+        "FRP": 25.9,
+        "Detections": 3
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.88865,
-          43.44073
+          1.99945,
+          42.71449
         ]
       }
     }
