@@ -4,15 +4,30 @@
     {
       "type": "Feature",
       "properties": {
-        "Nom": "Fos-sur-Mer",
-        "FRP": 57.5,
-        "Detections": 584
+        "Nom": "Dompnac",
+        "FRP": 193.5,
+        "Detections": 4
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.88862,
-          43.44075
+          4.12192,
+          44.56061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Fos-sur-Mer",
+        "FRP": 57.5,
+        "Detections": 586
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.88863,
+          43.44076
         ]
       }
     },
@@ -21,13 +36,13 @@
       "properties": {
         "Nom": "Fort-Mardyck",
         "FRP": 16.2,
-        "Detections": 73
+        "Detections": 75
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.28984,
-          51.03729
+          2.28994,
+          51.03732
         ]
       }
     },
