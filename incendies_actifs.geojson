@@ -34,6 +34,21 @@
     {
       "type": "Feature",
       "properties": {
+        "Nom": "Fos-sur-Mer",
+        "FRP": 57.5,
+        "Detections": 594
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.88859,
+          43.44075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Nom": "Prat-Communal",
         "FRP": 63.3,
         "Detections": 7
@@ -49,21 +64,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Nom": "Fos-sur-Mer",
-        "FRP": 57.5,
-        "Detections": 591
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.88856,
-          43.44074
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "Nom": "Dompnac",
         "FRP": 193.5,
         "Detections": 5
@@ -73,6 +73,21 @@
         "coordinates": [
           4.12255,
           44.56157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "L'Esté",
+        "FRP": 35.1,
+        "Detections": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.4747,
+          45.92884
         ]
       }
     }
