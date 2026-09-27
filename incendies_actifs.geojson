@@ -4,60 +4,15 @@
     {
       "type": "Feature",
       "properties": {
-        "Nom": "Prat-Communal",
-        "FRP": 63.3,
-        "Detections": 4
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.50446,
-          42.90083
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Dompnac",
-        "FRP": 193.5,
-        "Detections": 4
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.12192,
-          44.56061
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Fos-sur-Mer",
-        "FRP": 57.5,
-        "Detections": 586
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.88863,
-          43.44076
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "Nom": "Fort-Mardyck",
         "FRP": 16.2,
-        "Detections": 75
+        "Detections": 82
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.28994,
-          51.03732
+          2.28971,
+          51.03709
         ]
       }
     },
@@ -66,28 +21,58 @@
       "properties": {
         "Nom": "Mijanès",
         "FRP": 25.9,
-        "Detections": 4
+        "Detections": 9
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.99954,
-          42.7139
+          1.99931,
+          42.71286
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "Nom": "Cité des Sauvaires",
-        "FRP": 22,
-        "Detections": 14
+        "Nom": "Prat-Communal",
+        "FRP": 63.3,
+        "Detections": 7
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.47762,
-          43.45428
+          1.5058,
+          42.9009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Fos-sur-Mer",
+        "FRP": 57.5,
+        "Detections": 591
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.88856,
+          43.44074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Dompnac",
+        "FRP": 193.5,
+        "Detections": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.12255,
+          44.56157
         ]
       }
     }
