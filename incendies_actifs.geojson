@@ -4,6 +4,36 @@
     {
       "type": "Feature",
       "properties": {
+        "Nom": "Prat-Communal",
+        "FRP": 63.3,
+        "Detections": 10
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.50605,
+          42.89985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Mijanès",
+        "FRP": 25.9,
+        "Detections": 10
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.99765,
+          42.71226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Nom": "Fort-Mardyck",
         "FRP": 16.2,
         "Detections": 82
@@ -13,21 +43,6 @@
         "coordinates": [
           2.28971,
           51.03709
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Mijanès",
-        "FRP": 25.9,
-        "Detections": 9
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.99931,
-          42.71286
         ]
       }
     },
@@ -49,21 +64,6 @@
     {
       "type": "Feature",
       "properties": {
-        "Nom": "Prat-Communal",
-        "FRP": 63.3,
-        "Detections": 7
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.5058,
-          42.9009
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "Nom": "Dompnac",
         "FRP": 193.5,
         "Detections": 5
@@ -73,21 +73,6 @@
         "coordinates": [
           4.12255,
           44.56157
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "L'Esté",
-        "FRP": 35.1,
-        "Detections": 4
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.4747,
-          45.92884
         ]
       }
     }
