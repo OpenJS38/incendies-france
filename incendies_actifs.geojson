@@ -4,45 +4,30 @@
     {
       "type": "Feature",
       "properties": {
+        "Nom": "Ax 3 Domaines",
+        "FRP": 26.9,
+        "Detections": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.76573,
+          42.70039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Nom": "Prat-Communal",
         "FRP": 63.3,
-        "Detections": 10
+        "Detections": 14
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.50605,
-          42.89985
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Mijanès",
-        "FRP": 25.9,
-        "Detections": 10
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.99765,
-          42.71226
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Fort-Mardyck",
-        "FRP": 16.2,
-        "Detections": 82
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.28971,
-          51.03709
+          1.50389,
+          42.89994
         ]
       }
     },
@@ -51,28 +36,43 @@
       "properties": {
         "Nom": "Fos-sur-Mer",
         "FRP": 57.5,
-        "Detections": 594
+        "Detections": 597
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.88859,
-          43.44075
+          4.88861,
+          43.44074
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "Nom": "Dompnac",
-        "FRP": 193.5,
-        "Detections": 5
+        "Nom": "Mijanès",
+        "FRP": 73.4,
+        "Detections": 11
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.12255,
-          44.56157
+          1.99768,
+          42.71196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Fort-Mardyck",
+        "FRP": 16.2,
+        "Detections": 88
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.28952,
+          51.03702
         ]
       }
     }
