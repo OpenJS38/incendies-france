@@ -4,45 +4,30 @@
     {
       "type": "Feature",
       "properties": {
-        "Nom": "Ax 3 Domaines",
-        "FRP": 26.9,
-        "Detections": 7
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.76574,
-          42.70091
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Fos-sur-Mer",
-        "FRP": 57.5,
-        "Detections": 600
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.88863,
-          43.44073
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "Nom": "Prat-Communal",
         "FRP": 63.3,
-        "Detections": 15
+        "Detections": 17
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.50371,
-          42.90006
+          1.50201,
+          42.90041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Ax 3 Domaines",
+        "FRP": 26.9,
+        "Detections": 9
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.76531,
+          42.70014
         ]
       }
     },
@@ -51,13 +36,28 @@
       "properties": {
         "Nom": "Mijanès",
         "FRP": 73.4,
-        "Detections": 12
+        "Detections": 14
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.99786,
-          42.7116
+          1.99807,
+          42.71133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Fos-sur-Mer",
+        "FRP": 57.5,
+        "Detections": 603
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.88866,
+          43.44072
         ]
       }
     }
