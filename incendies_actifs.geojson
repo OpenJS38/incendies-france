@@ -4,6 +4,36 @@
     {
       "type": "Feature",
       "properties": {
+        "Nom": "Prat-Communal",
+        "FRP": 63.3,
+        "Detections": 21
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.50035,
+          42.90039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Fort-Mardyck",
+        "FRP": 44.5,
+        "Detections": 92
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.28966,
+          51.03714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Nom": "Fos-sur-Mer",
         "FRP": 57.5,
         "Detections": 605
@@ -13,51 +43,6 @@
         "coordinates": [
           4.88867,
           43.44074
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Prat-Communal",
-        "FRP": 63.3,
-        "Detections": 18
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.50275,
-          42.90019
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Ax 3 Domaines",
-        "FRP": 26.9,
-        "Detections": 9
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.76531,
-          42.70014
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Mijanès",
-        "FRP": 73.4,
-        "Detections": 15
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.99764,
-          42.71106
         ]
       }
     }
