@@ -4,60 +4,15 @@
     {
       "type": "Feature",
       "properties": {
-        "Nom": "Prat-Communal",
-        "FRP": 63.3,
-        "Detections": 24
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.49853,
-          42.90003
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "Nom": "Ax 3 Domaines",
         "FRP": 26.9,
-        "Detections": 13
+        "Detections": 17
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          1.76724,
-          42.70276
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Fos-sur-Mer",
-        "FRP": 57.5,
-        "Detections": 611
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.8887,
-          43.44075
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Fort-Mardyck",
-        "FRP": 44.5,
-        "Detections": 99
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.28948,
-          51.03704
+          1.76936,
+          42.70403
         ]
       }
     }
