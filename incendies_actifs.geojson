@@ -4,6 +4,21 @@
     {
       "type": "Feature",
       "properties": {
+        "Nom": "Fort-Mardyck",
+        "FRP": 44.5,
+        "Detections": 100
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.28944,
+          51.03698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Nom": "Ax 3 Domaines",
         "FRP": 26.9,
         "Detections": 17
