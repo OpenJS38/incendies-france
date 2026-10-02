@@ -6,13 +6,13 @@
       "properties": {
         "Nom": "Fort-Mardyck",
         "FRP": 44.5,
-        "Detections": 106
+        "Detections": 107
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.28932,
-          51.03709
+          2.28926,
+          51.03708
         ]
       }
     },
@@ -21,13 +21,13 @@
       "properties": {
         "Nom": "Fos-sur-Mer",
         "FRP": 57.5,
-        "Detections": 616
+        "Detections": 618
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.88869,
-          43.44076
+          4.88871,
+          43.44077
         ]
       }
     }
