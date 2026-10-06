@@ -4,15 +4,30 @@
     {
       "type": "Feature",
       "properties": {
-        "Nom": "Fos-sur-Mer",
-        "FRP": 57.5,
-        "Detections": 638
+        "Nom": "L'Isle-sur-Serein",
+        "FRP": 159.8,
+        "Detections": 5
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.88874,
-          43.44074
+          4.01315,
+          47.61134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Fos-sur-Mer",
+        "FRP": 57.5,
+        "Detections": 640
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.88877,
+          43.44076
         ]
       }
     },
@@ -21,13 +36,28 @@
       "properties": {
         "Nom": "Fort-Mardyck",
         "FRP": 44.5,
-        "Detections": 163
+        "Detections": 167
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.28791,
-          51.03649
+          2.28798,
+          51.03659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Coathérel",
+        "FRP": 41.1,
+        "Detections": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.27677,
+          48.22603
         ]
       }
     }
