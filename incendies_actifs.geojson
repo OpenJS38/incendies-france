@@ -6,43 +6,13 @@
       "properties": {
         "Nom": "Fort-Mardyck",
         "FRP": 44.5,
-        "Detections": 177
+        "Detections": 180
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.28836,
-          51.03681
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "L'Isle-sur-Serein",
-        "FRP": 159.8,
-        "Detections": 5
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.01315,
-          47.61134
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Fos-sur-Mer",
-        "FRP": 57.5,
-        "Detections": 645
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.8887,
-          43.44077
+          2.28842,
+          51.03687
         ]
       }
     }
