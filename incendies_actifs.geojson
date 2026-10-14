@@ -4,6 +4,36 @@
     {
       "type": "Feature",
       "properties": {
+        "Nom": "Crevant",
+        "FRP": 56.9,
+        "Detections": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.53126,
+          46.37363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Canaglia",
+        "FRP": 120.6,
+        "Detections": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.07667,
+          42.19855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Nom": "Fort-Mardyck",
         "FRP": 15.8,
         "Detections": 4
