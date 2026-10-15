@@ -4,15 +4,15 @@
     {
       "type": "Feature",
       "properties": {
-        "Nom": "Casamaccioli",
-        "FRP": 43.5,
-        "Detections": 3
+        "Nom": "Brame-Jean",
+        "FRP": 21.4,
+        "Detections": 4
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.06562,
-          42.27418
+          5.23248,
+          43.74202
         ]
       }
     },
@@ -21,13 +21,28 @@
       "properties": {
         "Nom": "Canaglia",
         "FRP": 120.6,
+        "Detections": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.07891,
+          42.19756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Casamaccioli",
+        "FRP": 52.7,
         "Detections": 4
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.0784,
-          42.19752
+          9.06232,
+          42.27401
         ]
       }
     },
@@ -73,36 +88,6 @@
         "coordinates": [
           4.88871,
           43.44078
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Crevant",
-        "FRP": 56.9,
-        "Detections": 2
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.53126,
-          46.37363
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Sode",
-        "FRP": 17.9,
-        "Detections": 2
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          0.62985,
-          42.82035
         ]
       }
     }
