@@ -4,6 +4,21 @@
     {
       "type": "Feature",
       "properties": {
+        "Nom": "Fos-sur-Mer",
+        "FRP": 57.5,
+        "Detections": 684
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.88871,
+          43.44079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Nom": "Crevant",
         "FRP": 56.9,
         "Detections": 2
@@ -19,6 +34,36 @@
     {
       "type": "Feature",
       "properties": {
+        "Nom": "Fort-Mardyck",
+        "FRP": 15.8,
+        "Detections": 7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.30302,
+          51.0417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Fort-Mardyck",
+        "FRP": 44.5,
+        "Detections": 218
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.28822,
+          51.03684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Nom": "Canaglia",
         "FRP": 120.6,
         "Detections": 2
@@ -28,51 +73,6 @@
         "coordinates": [
           9.07667,
           42.19855
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Fort-Mardyck",
-        "FRP": 15.8,
-        "Detections": 6
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.30364,
-          51.04133
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Fos-sur-Mer",
-        "FRP": 57.5,
-        "Detections": 681
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.88871,
-          43.44079
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Fort-Mardyck",
-        "FRP": 44.5,
-        "Detections": 217
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.28822,
-          51.03684
         ]
       }
     }
