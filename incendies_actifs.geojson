@@ -4,45 +4,60 @@
     {
       "type": "Feature",
       "properties": {
-        "Nom": "Zicavo",
-        "FRP": 17.4,
+        "Nom": "Fort-Mardyck",
+        "FRP": 15.8,
+        "Detections": 11
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.30082,
+          51.04246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Fort-Mardyck",
+        "FRP": 44.5,
+        "Detections": 225
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.28778,
+          51.03667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Bethmale",
+        "FRP": 18.5,
         "Detections": 3
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.1785,
-          41.88023
+          1.05606,
+          42.8274
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "Nom": "Brame-Jean",
-        "FRP": 21.4,
-        "Detections": 4
+        "Nom": "Fos-sur-Mer",
+        "FRP": 57.5,
+        "Detections": 691
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.23248,
-          43.74202
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Canaglia",
-        "FRP": 120.6,
-        "Detections": 5
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.07891,
-          42.19756
+          4.88875,
+          43.44078
         ]
       }
     },
@@ -64,45 +79,45 @@
     {
       "type": "Feature",
       "properties": {
-        "Nom": "Fos-sur-Mer",
-        "FRP": 57.5,
-        "Detections": 689
+        "Nom": "Canaglia",
+        "FRP": 120.6,
+        "Detections": 5
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.88873,
-          43.44078
+          9.07891,
+          42.19756
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "Nom": "Fort-Mardyck",
-        "FRP": 15.8,
-        "Detections": 9
+        "Nom": "Brame-Jean",
+        "FRP": 21.4,
+        "Detections": 4
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.30204,
-          51.04202
+          5.23248,
+          43.74202
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "Nom": "Fort-Mardyck",
-        "FRP": 44.5,
-        "Detections": 222
+        "Nom": "Zicavo",
+        "FRP": 17.4,
+        "Detections": 3
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.28789,
-          51.03672
+          9.1785,
+          41.88023
         ]
       }
     }
