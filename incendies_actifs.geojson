@@ -4,6 +4,66 @@
     {
       "type": "Feature",
       "properties": {
+        "Nom": "Fos-sur-Mer",
+        "FRP": 57.5,
+        "Detections": 697
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.88877,
+          43.44078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Villardonnel",
+        "FRP": 20,
+        "Detections": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.33868,
+          43.33381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Brame-Jean",
+        "FRP": 21.4,
+        "Detections": 7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.22913,
+          43.7414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Bethmale",
+        "FRP": 18.5,
+        "Detections": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.05661,
+          42.8269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Nom": "Fort-Mardyck",
         "FRP": 44.5,
         "Detections": 226
@@ -58,66 +118,6 @@
         "coordinates": [
           9.18036,
           41.88095
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Brame-Jean",
-        "FRP": 21.4,
-        "Detections": 5
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.23088,
-          43.74187
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Bethmale",
-        "FRP": 18.5,
-        "Detections": 3
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          1.05606,
-          42.8274
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Fos-sur-Mer",
-        "FRP": 57.5,
-        "Detections": 692
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.88875,
-          43.44077
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Casamaccioli",
-        "FRP": 63.1,
-        "Detections": 5
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.06175,
-          42.27385
         ]
       }
     }
