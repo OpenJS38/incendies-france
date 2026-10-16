@@ -4,6 +4,21 @@
     {
       "type": "Feature",
       "properties": {
+        "Nom": "Zicavo",
+        "FRP": 17.4,
+        "Detections": 3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.1785,
+          41.88023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Nom": "Brame-Jean",
         "FRP": 21.4,
         "Detections": 4
@@ -49,6 +64,21 @@
     {
       "type": "Feature",
       "properties": {
+        "Nom": "Fos-sur-Mer",
+        "FRP": 57.5,
+        "Detections": 689
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.88873,
+          43.44078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "Nom": "Fort-Mardyck",
         "FRP": 15.8,
         "Detections": 9
@@ -73,21 +103,6 @@
         "coordinates": [
           2.28789,
           51.03672
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Fos-sur-Mer",
-        "FRP": 57.5,
-        "Detections": 687
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.88871,
-          43.44078
         ]
       }
     }
