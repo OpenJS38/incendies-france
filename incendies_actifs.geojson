@@ -5,14 +5,29 @@
       "type": "Feature",
       "properties": {
         "Nom": "Fort-Mardyck",
-        "FRP": 15.8,
-        "Detections": 11
+        "FRP": 44.5,
+        "Detections": 226
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.30082,
-          51.04246
+          2.28774,
+          51.03666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Canaglia",
+        "FRP": 120.6,
+        "Detections": 6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.07967,
+          42.19785
         ]
       }
     },
@@ -20,14 +35,44 @@
       "type": "Feature",
       "properties": {
         "Nom": "Fort-Mardyck",
-        "FRP": 44.5,
-        "Detections": 225
+        "FRP": 15.8,
+        "Detections": 12
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.28778,
-          51.03667
+          2.30031,
+          51.04248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Zicavo",
+        "FRP": 17.4,
+        "Detections": 4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          9.18036,
+          41.88095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Brame-Jean",
+        "FRP": 21.4,
+        "Detections": 5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.23088,
+          43.74187
         ]
       }
     },
@@ -51,13 +96,13 @@
       "properties": {
         "Nom": "Fos-sur-Mer",
         "FRP": 57.5,
-        "Detections": 691
+        "Detections": 692
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           4.88875,
-          43.44078
+          43.44077
         ]
       }
     },
@@ -65,59 +110,14 @@
       "type": "Feature",
       "properties": {
         "Nom": "Casamaccioli",
-        "FRP": 52.7,
-        "Detections": 4
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.06232,
-          42.27401
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Canaglia",
-        "FRP": 120.6,
+        "FRP": 63.1,
         "Detections": 5
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          9.07891,
-          42.19756
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Brame-Jean",
-        "FRP": 21.4,
-        "Detections": 4
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.23248,
-          43.74202
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Zicavo",
-        "FRP": 17.4,
-        "Detections": 3
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          9.1785,
-          41.88023
+          9.06175,
+          42.27385
         ]
       }
     }
