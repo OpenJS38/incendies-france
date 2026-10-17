@@ -5,14 +5,14 @@
       "type": "Feature",
       "properties": {
         "Nom": "Fort-Mardyck",
-        "FRP": 15.8,
-        "Detections": 13
+        "FRP": 44.5,
+        "Detections": 229
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.30156,
-          51.04282
+          2.28752,
+          51.0366
         ]
       }
     },
@@ -20,44 +20,14 @@
       "type": "Feature",
       "properties": {
         "Nom": "Fort-Mardyck",
-        "FRP": 44.5,
-        "Detections": 227
+        "FRP": 15.8,
+        "Detections": 15
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.28773,
-          51.03666
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Fos-sur-Mer",
-        "FRP": 57.5,
-        "Detections": 697
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.88877,
-          43.44078
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Villardonnel",
-        "FRP": 20,
-        "Detections": 3
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.33868,
-          43.33381
+          2.30199,
+          51.04294
         ]
       }
     },
@@ -66,13 +36,28 @@
       "properties": {
         "Nom": "Brame-Jean",
         "FRP": 21.4,
-        "Detections": 7
+        "Detections": 8
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          5.22913,
-          43.7414
+          5.22862,
+          43.74081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Fos-sur-Mer",
+        "FRP": 57.5,
+        "Detections": 699
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.88876,
+          43.44077
         ]
       }
     }
