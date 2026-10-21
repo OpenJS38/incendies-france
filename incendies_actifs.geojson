@@ -5,6 +5,21 @@
       "type": "Feature",
       "properties": {
         "Nom": "Fort-Mardyck",
+        "FRP": 44.5,
+        "Detections": 247
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.28647,
+          51.03619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Fort-Mardyck",
         "FRP": 15.8,
         "Detections": 24
       },
