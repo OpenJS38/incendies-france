@@ -5,29 +5,29 @@
       "type": "Feature",
       "properties": {
         "Nom": "Fort-Mardyck",
-        "FRP": 44.5,
-        "Detections": 265
+        "FRP": 15.8,
+        "Detections": 40
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.28614,
-          51.03586
+          2.30199,
+          51.04415
         ]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "Nom": "Morville-lès-Vic",
-        "FRP": 15.9,
-        "Detections": 2
+        "Nom": "Fort-Mardyck",
+        "FRP": 44.5,
+        "Detections": 267
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          6.53554,
-          48.80792
+          2.28605,
+          51.03582
         ]
       }
     }
