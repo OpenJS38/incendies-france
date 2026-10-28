@@ -1,20 +1,4 @@
 {
   "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Morville-lès-Vic",
-        "FRP": 15.9,
-        "Detections": 5
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          6.53487,
-          48.80944
-        ]
-      }
-    }
-  ]
+  "features": []
 }
