@@ -30,21 +30,6 @@
           51.04431
         ]
       }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Le Camp du Castellet",
-        "FRP": 37.4,
-        "Detections": 2
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          5.76145,
-          43.25137
-        ]
-      }
     }
   ]
 }
