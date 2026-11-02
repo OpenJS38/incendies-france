@@ -4,45 +4,15 @@
     {
       "type": "Feature",
       "properties": {
-        "Nom": "Pars-lès-Romilly",
-        "FRP": 58.8,
-        "Detections": 1
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          3.73231,
-          48.48774
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Fort-Mardyck",
-        "FRP": 44.5,
-        "Detections": 286
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          2.28555,
-          51.03554
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "Nom": "Fort-Mardyck",
         "FRP": 15.8,
-        "Detections": 57
+        "Detections": 59
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.30217,
-          51.04422
+          2.30199,
+          51.0442
         ]
       }
     }
