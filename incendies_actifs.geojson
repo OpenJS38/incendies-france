@@ -36,13 +36,13 @@
       "properties": {
         "Nom": "Fort-Mardyck",
         "FRP": 15.8,
-        "Detections": 56
+        "Detections": 57
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.30229,
-          51.04423
+          2.30217,
+          51.04422
         ]
       }
     }
