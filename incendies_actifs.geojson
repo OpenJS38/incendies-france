@@ -4,15 +4,30 @@
     {
       "type": "Feature",
       "properties": {
-        "Nom": "Fort-Mardyck",
-        "FRP": 15.8,
-        "Detections": 70
+        "Nom": "Orlu",
+        "FRP": 17.7,
+        "Detections": 3
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          2.301,
-          51.04386
+          1.95734,
+          42.71003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Nom": "Caussou",
+        "FRP": 15,
+        "Detections": 2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.81535,
+          42.7904
         ]
       }
     }
