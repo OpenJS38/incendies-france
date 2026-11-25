@@ -1,20 +1,4 @@
 {
   "type": "FeatureCollection",
-  "features": [
-    {
-      "type": "Feature",
-      "properties": {
-        "Nom": "Ventillon",
-        "FRP": 15.4,
-        "Detections": 48
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          4.8886,
-          43.44034
-        ]
-      }
-    }
-  ]
+  "features": []
 }
