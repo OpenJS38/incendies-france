@@ -5,14 +5,14 @@
       "type": "Feature",
       "properties": {
         "Nom": "Ventillon",
-        "FRP": 15.4,
-        "Detections": 55
+        "FRP": 41.1,
+        "Detections": 58
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
-          4.88793,
-          43.44024
+          4.88772,
+          43.44012
         ]
       }
     }
